@@ -1,5 +1,5 @@
 # Deep Learning Resources
-Resources for deep learning: papers, articles, courses
+Resources for deep learning: papers, articles, courses  
 
 ## Overview
 [Schmidhuber, J. (2015). Deep learning in neural networks: An overview. Neural Networks, 61, 85–117.](http://arxiv.org/abs/1404.7828)
