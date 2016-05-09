@@ -4,23 +4,26 @@
 ### Gradient descent
 #### Batch gradient descent
 - Computes the gradient of the cost on entire training set, in one go
-- Slow as single update requires measuring loss on all data
-- Converts to global minimum only for convex error surfaces
+- Minus
+  - Slow as single update requires measuring loss on all data
+  - Converts to global minimum only for convex error surfaces
 
 #### Stochastic gradient descent (SGD)
-- Parameter update after each training sample, faster than batch
-- Frequent updates cause objective function to fluctuate
-- Can easily overshoot minimum, so better to decay learning rate
-- Shuffle data at each epoch
+- Plus
+  * Parameter update after each training sample, faster than batch
+  * Frequent updates cause objective function to fluctuate
+  * Can easily overshoot minimum, so better to decay learning rate
+- Should shuffle data at each epoch
 
 #### Mini-batch gradient descent
 - Best of both, size should be 50 ~ 256
-- Reduces variance of parameter updates
-- Efficient computation of matrices
-- Issues
-..* Same issues with learning rate, can address problem with schedules
-..* Same learning rate applies to all parameters, problem
-..* Easy to get trapped in local minima and saddle points
+- Plus
+  * Reduces variance of parameter updates
+  * Efficient computation of matrices
+- Minus
+  * Same issues with learning rate, can address problem with schedules
+  * Same learning rate applies to all parameters, problem
+  * Easy to get trapped in local minima and saddle points
 
 ### Optimization (adaptive methods)
 #### Momemtum
@@ -33,14 +36,14 @@
 
 #### Adagrad
 - Adapts learning rate to the parameters
---* Large updates for infrequent parameters
---* Small updates for frequent parameters
---* Different rate for every theta at every time step
-- Plus:
---* Good for sparse data
---* No longer need to tune learning rate
-- Minus:
---* Because of accumulated sum in denom, learning rate shrinks and vanishes
+  * Large updates for infrequent parameters
+  * Small updates for frequent parameters
+  * Different rate for every theta at every time step
+- Plus
+  * Good for sparse data
+  * No longer need to tune learning rate
+- Minus
+  * Because of accumulated sum in denom, learning rate shrinks and vanishes
 
 #### Adadelta
 - Extends Adagrad, fixes decreasing learning rate
