@@ -24,6 +24,7 @@ Longer tutorial on the topic, 34 pages
 
 [Overview of various optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/)
 Good Blog article on different GD algorithms
+[summary](summaries/overview_optimization.md)
 
 ## Recurrent Neural Network (RNN)
 [Blog intro, tutorial](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
