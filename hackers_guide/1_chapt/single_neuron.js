@@ -1,15 +1,15 @@
 // FROM: http://karpathy.github.io/neuralnets/
 
 var print = function(str) {
-    str_new = document.getElementById('text').innerHTML + "<br>" + str;
-  document.getElementById('text').innerHTML = str_new;
+  str_new = document.getElementById('output').innerHTML + "<br>" + str;
+  document.getElementById('output').innerHTML = str_new;
 }
 
-/*
+/* 
 More realistic example, we have a single neuron which activates with sigmoid:
 f(x,y,a,b,c) = \sigma(ax + by + c)
 
-Sigmoid squashes values to between 0 and 1.
+Sigmoid squashes values to between 0 and 1. 
 The partial derivative with respect to a single input:
 \frac{\partial \sigma(x)}{\partial x} = \sigma(x) (1 - \sigma(x))
 */
@@ -26,12 +26,12 @@ var Unit = function(value, grad) {
 }
 
 // --------------------------------------------------------------------------
-// GATES FORWARD/BACKWARD DEFINITION
+// GATE CLASSES: FORWARD/BACKWARD DEFINITION
 // --------------------------------------------------------------------------
 // the backward functions compute only the local derivatives
 
 // MULTIPLY GATE
-var multiplyGate = function(){ };
+var multiplyGate = function() {};
 multiplyGate.prototype = {
   forward: function(u0, u1) {
     // From two input units, multiply their values and forward result in new parent Unit
@@ -52,7 +52,7 @@ multiplyGate.prototype = {
 }
 
 // ADD GATE
-var addGate = function(){ };
+var addGate = function() {};
 addGate.prototype = {
   forward: function(u0, u1) {
     this.u0 = u0;
@@ -70,7 +70,9 @@ addGate.prototype = {
 // SIGMOID GATE
 var sigmoidGate = function() {
   // helper function
-  this.sig = function(x) { return 1 / (1 + Math.exp(-x)); };
+  this.sig = function(x) {
+    return 1 / (1 + Math.exp(-x));
+  };
 };
 sigmoidGate.prototype = {
   forward: function(u0) {
@@ -109,30 +111,49 @@ var forwardNeuron = function() {
   axpbypc = addg1.forward(axpby, c); // a*x + b*y + c = 2
   s = sg0.forward(axpbypc); // sig(a*x + b*y + c) = 0.8808
 };
+
+// INITIAL FORWARD
+print('initial values:');
+print('a: ' + a.value);
+print('b: ' + b.value);
+print('c: ' + c.value);
+print('x: ' + x.value);
+print('y: ' + y.value);
 forwardNeuron();
-print('circuit output: ' + s.value); // prints 0.8808
+print('initial circuit output: ' + s.value); // prints 0.8808
 
-// Do the backward pass
-s.grad = 1.0;
-sg0.backward(); // writes gradient into axpbypc
-addg1.backward(); // writes gradients into axpby and c
-addg0.backward(); // writes gradients into ax and by
-mulg1.backward(); // writes gradients into b and y
-mulg0.backward(); // writes gradients into a and x
+// LOOP!
+print_every = 10
+for (i = 0; i < 200; i++) {
+  // BACKWARD
+  s.grad = 1.0;
+  sg0.backward(); // writes gradient into axpbypc
+  addg1.backward(); // writes gradients into axpby and c
+  addg0.backward(); // writes gradients into ax and by
+  mulg1.backward(); // writes gradients into b and y
+  mulg0.backward(); // writes gradients into a and x
 
-// Update values
-var step_size = 0.01;
-a.value += step_size * a.grad; // a.grad is -0.105
-b.value += step_size * b.grad; // b.grad is 0.315
-c.value += step_size * c.grad; // c.grad is 0.105
-x.value += step_size * x.grad; // x.grad is 0.105
-y.value += step_size * y.grad; // y.grad is 0.210
+  // UPDATE
+  var step_size = 0.01;
+  a.value += step_size * a.grad; // a.grad is -0.105
+  b.value += step_size * b.grad; // b.grad is 0.315
+  c.value += step_size * c.grad; // c.grad is 0.105
+  x.value += step_size * x.grad; // x.grad is 0.105
+  y.value += step_size * y.grad; // y.grad is 0.210
 
-// Check result of updated values
-forwardNeuron();
-print('circuit output after one backprop: ' + s.value);
-// prints 0.8825, higher than previous forward pass result of 0.8808!
+  // FORWARD RESULT
+  forwardNeuron();
+  if (i % print_every == 0) {
+    print('output at step ' + i + ' : ' + s.value);
+  }
+}
 
-
-
+// FINAL
+print('final values:');
+print('a: ' + a.value);
+print('b: ' + b.value);
+print('c: ' + c.value);
+print('x: ' + x.value);
+print('y: ' + y.value);
+print('final output : ' + s.value);
 
