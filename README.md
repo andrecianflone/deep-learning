@@ -72,6 +72,8 @@ Resources for deep learning: papers, articles, courses
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift. Ioffe & Szegedy, 2015](http://arxiv.org/abs/1502.03167)
   * [Annotated](https://drive.google.com/open?id=0ByV7wn2NzevOSW9jVC14VEpSUHc)
 - [Dropout: A Simple Way to Prevent NNs from Overfitting. Srivastava, Hinton et al. 2014](http://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf)
+- [Problem of vanishing gradients](http://neuralnetworksanddeeplearning.com/chap5.html#the_vanishing_gradient_problem)
+  * [Summary](summaries/vanishing_gradients.md)
 - [Simple end-to-end in TensorFlow](http://bcomposes.com/2015/11/26/simple-end-to-end-tensorflow-examples/)
   * [Summary](summaries/end-to-end_tf.md)
 
