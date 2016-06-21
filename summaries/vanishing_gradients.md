@@ -1,4 +1,4 @@
-[Summary of this section](http://neuralnetworksanddeeplearning.com/chap5.html#the_vanishing_gradient_problem)
+Summary of [this section](http://neuralnetworksanddeeplearning.com/chap5.html#the_vanishing_gradient_problem)
 
 ## Exposing the problem
 - Train on MNIST dataset
@@ -21,8 +21,10 @@ In theory deep networks work better than shallow ones due to abstraction feature
 - Instead of vanishing, early layer gradients may explode
 
 ## Vanishing gradient cause (and exploding)
-Simple structure with backprop
+Simple structure with backprop:
+
 ![network derivative](http://neuralnetworksanddeeplearning.com/images/tikz38.png)
+
 Where $\sigma (z_j)$ is the sigmoid, and $zj = w_j a_{j-1} + b_j$ is the weighted input to the activation function in the next neuron. (See proof starting at formula 114). The expression is the partial derivative of the cost with respect to the first bias, b1. Besides the last term, it follows the pattern of weight x sigmoid derivative.
 
 Looking at the sigmoid derivative plot:
