@@ -1,3 +1,7 @@
+### 2016-10
+- [Auto-Encoding Variational Bayes](summaries/auto-encoding_var_bayes.md), [annotated](https://drive.google.com/file/d/0ByV7wn2NzevOcjBIeVBZcTFUQ2s/view?usp=sharing), [arXiv](https://arxiv.org/abs/1312.6114)
+- [Semi-supervised Variational Autoencoders for Sequence Classification](summaries/var_auto_sequence_class.md), [annotated](https://drive.google.com/file/d/0ByV7wn2NzevOTXEzLWlNQy1od0k/view?usp=sharing), [arXiv](https://arxiv.org/abs/1603.02514)
+- [Autoencoder review](summaries/autoencoders.md) by Keras author Francois Chollet
 # Deep Learning Resources
 Resources for deep learning: papers, articles, courses  
 
@@ -41,7 +45,8 @@ Resources for deep learning: papers, articles, courses
   * Curated list of RNN resources
 
 ## Convolutional Neural Network (CNN, or ConvNet)
-
+- [Character-level Convolutional Networks for Text Classification](http://arxiv.org/abs/1509.01626)
+  * [Annotated](https://drive.google.com/open?id=0ByV7wn2NzevOZEw4QV9tbFNyVTQ)
 - [Collobert. Natural Language Processing (Almost) from Scratch (2011)](http://dl.acm.org/citation.cfm?id=2078186)
   * Spurred interest in applying CNN to NLP.
 - [Multichannel Variable-Size Convolution for Sentence Classification. Yin, 2015](https://aclweb.org/anthology/K/K15/K15-1021.pdf)
