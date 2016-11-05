@@ -3,10 +3,12 @@
 - Sequence to Sequence Learning with Neural Networks, [arXiv](https://arxiv.org/abs/1409.3215)
 - [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](summaries/learning_phrase_rep_RNN_encoder_decoder_mt.md), [arXiv](https://arxiv.org/abs/1406.1078)
 - [Implicit Discourse Relation Detection via a Deep Architecture with Gated Relevance Network](summaries/implicit_drd_grn.md), [annotated](https://drive.google.com/file/d/0ByV7wn2NzevOLUxtemFqejJmNVU/view?usp=sharing), [acl](https://www.aclweb.org/anthology/P/P16/P16-1163.pdf)
+
 ### 2016-10
 - [Auto-Encoding Variational Bayes](summaries/auto-encoding_var_bayes.md), [annotated](https://drive.google.com/file/d/0ByV7wn2NzevOcjBIeVBZcTFUQ2s/view?usp=sharing), [arXiv](https://arxiv.org/abs/1312.6114)
 - [Semi-supervised Variational Autoencoders for Sequence Classification](summaries/var_auto_sequence_class.md), [annotated](https://drive.google.com/file/d/0ByV7wn2NzevOTXEzLWlNQy1od0k/view?usp=sharing), [arXiv](https://arxiv.org/abs/1603.02514)
 - [Autoencoder review](summaries/autoencoders.md) by Keras author Francois Chollet
+
 # Deep Learning Resources
 Resources for deep learning: papers, articles, courses  
 
