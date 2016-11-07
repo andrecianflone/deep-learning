@@ -1,5 +1,5 @@
 ### 2016-11
-- [Neural Machine Translation by Jointly Learning to Align and Translate](neural_machine_translation.md), [annotated](https://drive.google.com/file/d/0ByV7wn2NzevOS3FmWHVNazhnczA/view?usp=sharing), [arXiv](https://arxiv.org/abs/1409.0473)
+- [Neural Machine Translation by Jointly Learning to Align and Translate](summaries/neural_machine_translation.md), [annotated](https://drive.google.com/file/d/0ByV7wn2NzevOS3FmWHVNazhnczA/view?usp=sharing), [arXiv](https://arxiv.org/abs/1409.0473)
 - [Sequence to Sequence Learning with Neural Networks](summaries/seq2seq_nn.md), [annotated](https://drive.google.com/file/d/0ByV7wn2NzevOQ1l5aUF4RWYtenc/view?usp=sharing), [arXiv](https://arxiv.org/abs/1409.3215)
 - [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](summaries/learning_phrase_rep_RNN_encoder_decoder_mt.md), [arXiv](https://arxiv.org/abs/1406.1078)
 - [Implicit Discourse Relation Detection via a Deep Architecture with Gated Relevance Network](summaries/implicit_drd_grn.md), [annotated](https://drive.google.com/file/d/0ByV7wn2NzevOLUxtemFqejJmNVU/view?usp=sharing), [acl](https://www.aclweb.org/anthology/P/P16/P16-1163.pdf)
