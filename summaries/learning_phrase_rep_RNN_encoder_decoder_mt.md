@@ -24,6 +24,8 @@ on seminal Cho et al [Encoder-Decoder paper](https://arxiv.org/abs/1406.1078)
 - RNN E-D has 1000 hidden units in both encoder and decoder.
 - Uses rank-100 matrices, equivalent to learning an embedding of dimension 100 for each word.
 - Uses tanh as activation for new hiddent state
+- Early stop after 10 ecpochs
+- Best performing model: Proposed RNN for scoring and add traditional neural net language model (CLSM) to improve the RNN
 
 ## Observations
 - Gating is crucial. Without gating, just using tanh does not give meaningful results.
