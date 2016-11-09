@@ -1,4 +1,5 @@
 ### 2016-11
+- [Fully Character-Level Neural Machine Translation without Explicit Segmentation](summaries/fully_char_level_nmt.md), [annotated](https://drive.google.com/open?id=0ByV7wn2NzevOQ0JtTTRuR0pjUlE), [arXiv](https://arxiv.org/abs/1610.03017)
 - [Neural Machine Translation by Jointly Learning to Align and Translate](summaries/neural_machine_translation.md), [annotated](https://drive.google.com/file/d/0ByV7wn2NzevOS3FmWHVNazhnczA/view?usp=sharing), [arXiv](https://arxiv.org/abs/1409.0473)
 - [Sequence to Sequence Learning with Neural Networks](summaries/seq2seq_nn.md), [annotated](https://drive.google.com/file/d/0ByV7wn2NzevOQ1l5aUF4RWYtenc/view?usp=sharing), [arXiv](https://arxiv.org/abs/1409.3215)
 - [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](summaries/learning_phrase_rep_RNN_encoder_decoder_mt.md), [arXiv](https://arxiv.org/abs/1406.1078)

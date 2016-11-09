@@ -2,6 +2,8 @@ on paper by Bahdanau, Cho, Bengio, ICLR 2015
 
 Neural Machine Translation by Jointly Learning to Align and Translate, [annotated](https://drive.google.com/file/d/0ByV7wn2NzevOS3FmWHVNazhnczA/view?usp=sharing), [arXiv](https://arxiv.org/abs/1409.0473)
 
+See TensorFlow library [seq2seq](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/python/ops/seq2seq.py) for usage
+
 ## Background
 - Unlike traditional phrase-based translation system which consist of many small sub-components that are tuned separately, NMT builds and trains single large neural net to encode/decode translation
 - Issue with NMT encoder/decoder is compressing all source into single fixed-length vector
