@@ -1,3 +1,6 @@
+### 2017-01
+- NIPS 2016 Tutorial:Generative Adversarial Networks, [arXiv](https://arxiv.org/abs/1701.00160)
+
 ### 2016-11
 - [Fully Character-Level Neural Machine Translation without Explicit Segmentation](summaries/fully_char_level_nmt.md), [annotated](https://drive.google.com/open?id=0ByV7wn2NzevOQ0JtTTRuR0pjUlE), [arXiv](https://arxiv.org/abs/1610.03017)
 - [Neural Machine Translation by Jointly Learning to Align and Translate](summaries/neural_machine_translation.md), [annotated](https://drive.google.com/file/d/0ByV7wn2NzevOS3FmWHVNazhnczA/view?usp=sharing), [arXiv](https://arxiv.org/abs/1409.0473)
