@@ -19,6 +19,9 @@
 # Deep Learning Resources
 Resources for deep learning: papers, articles, courses  
 
+## Datasets
+- UCI [machine learning repository](https://archive.ics.uci.edu/ml/datasets.html?format=&task=&att=&area=&numAtt=&numIns=&type=&sort=instDown&view=table). 360 datasets, some very large. Nice sorting feature, such as ">1000 instance/classification/text" results in [14 data sets](https://archive.ics.uci.edu/ml/datasets.html?format=&task=cla&att=&area=&numAtt=&numIns=greater1000&type=&sort=instDown&view=table)
+
 ## Overview
 - [Nature Review article. Lecun, Bengio, Hinton. 2015](http://www.nature.com/articles/nature14539.epdf?referrer_access_token=K4awZz78b5Yn2_AoPV_4Y9RgN0jAjWel9jnR3ZoTv0PU8PImtLRceRBJ32CtadUBVOwHuxbf2QgphMCsA6eTOw64kccq9ihWSKdxZpGPn2fn3B_8bxaYh0svGFqgRLgaiyW6CBFAb3Fpm6GbL8a_TtQQDWKuhD1XKh_wxLReRpGbR_NdccoaiKP5xvzbV-x7b_7Y64ZSpqG6kmfwS6Q1rw%3D%3D&tracking_referrer=www.nature.com)
   * Good short overview
