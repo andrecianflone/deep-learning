@@ -1,5 +1,6 @@
 ### 2017-03
-- Matching Networks for One Shot Learning, [arXiv](https://arxiv.org/abs/1606.04080), Vinyals et al, NIPS 2016.
+- [Matching Networks for One Shot Learning](summaries/matching_networks.md), [arXiv](https://arxiv.org/abs/1606.04080), Vinyals et al, NIPS 2016. Unofficial [code in TF](https://github.com/zergylord/oneshot). [karpathy notes](http://www.shortscience.org/paper?bibtexKey=journals/corr/VinyalsBLKW16#karpathy), [Colyer blog](https://blog.acolyer.org/2017/01/03/matching-networks-for-one-shot-learning/)
+
 ### 2017-01
 - [Optimization As A Model For Few-Shot Learning](https://openreview.net/pdf?id=rJY0-Kcll)
 - NIPS 2016 Tutorial:Generative Adversarial Networks, [annotated](https://drive.google.com/file/d/0ByV7wn2NzevOa2RqZmJVR2hrUTA/view?usp=sharing),[arXiv](https://arxiv.org/abs/1701.00160)
