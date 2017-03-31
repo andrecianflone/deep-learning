@@ -1,5 +1,5 @@
 ### 2017-03
-- Scheduled Sampling for Sequence Prediction with RNN, [arXiv](https://arxiv.org/abs/1506.03099), Bengio et al, 2015
+- Scheduled Sampling for Sequence Prediction with RNN, [summary](summaries/scheduled_sampling.md), [arXiv](https://arxiv.org/abs/1506.03099), Bengio et al, 2015
 - Hybrid computing using a neural network with dynamic external memory, published in [Nature](https://www.dropbox.com/s/0a40xi702grx3dq/2016-graves.pdf)
 - Neural Turing Machine, [arXiv](https://arxiv.org/abs/1410.5401)
 - Memory Networks, [arXiv](https://arxiv.org/abs/1410.3916)
