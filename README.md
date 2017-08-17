@@ -9,10 +9,10 @@
 - Neural Turing Machine, [arXiv](https://arxiv.org/abs/1410.5401)
 - Memory Networks, [arXiv](https://arxiv.org/abs/1410.3916)
 - Deep Photo Style Transfer, [arXiv](https://arxiv.org/abs/1703.07511)
-- [Matching Networks for One Shot Learning](summaries/matching_networks.md), [arXiv](https://arxiv.org/abs/1606.04080), Vinyals et al, NIPS 2016. Unofficial [code in TF](https://github.com/zergylord/oneshot). [karpathy notes](http://www.shortscience.org/paper?bibtexKey=journals/corr/VinyalsBLKW16#karpathy), [Colyer blog](https://blog.acolyer.org/2017/01/03/matching-networks-for-one-shot-learning/)
+- Matching Networks for One Shot Learning, Vinyals et al, NIPS 2016. [my summary](summaries/matching_networks.md), [arXiv](https://arxiv.org/abs/1606.04080). Unofficial [code in TF](https://github.com/zergylord/oneshot). [karpathy notes](http://www.shortscience.org/paper?bibtexKey=journals/corr/VinyalsBLKW16#karpathy), [Colyer blog](https://blog.acolyer.org/2017/01/03/matching-networks-for-one-shot-learning/)
 
 ### 2017-01
-- [Optimization As A Model For Few-Shot Learning](https://openreview.net/pdf?id=rJY0-Kcll)
+- Optimization As A Model For Few-Shot Learning, Sachin Ravi and Hugo Larochelle, ICLR 2017. [openreview](https://openreview.net/pdf?id=rJY0-Kcll), [video](https://www.youtube.com/watch?v=igJmB6d8y8E)
 - NIPS 2016 Tutorial:Generative Adversarial Networks, [annotated](https://drive.google.com/file/d/0ByV7wn2NzevOa2RqZmJVR2hrUTA/view?usp=sharing),[arXiv](https://arxiv.org/abs/1701.00160)
 
 ### 2016-11
