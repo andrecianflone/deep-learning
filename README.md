@@ -1,3 +1,8 @@
+### 2017-08
+- Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders, Zhao et al 2017, ['arXiv'](https://arxiv.org/abs/1703.10960)
+- How to Train Your DRAGAN, Kodali et al 2017. [arXiv](https://arxiv.org/abs/1705.07215)
+- Improved Training of Wasserstein GANs, Gulrajani et al 2017. [arXiv](https://arxiv.org/abs/1704.00028)
+- Wasserstein Gan, Arjovsky et al 2017. [arXiv](https://arxiv.org/abs/1701.07875)
 ### 2017-03
 - Scheduled Sampling for Sequence Prediction with RNN, [summary](summaries/scheduled_sampling.md), [arXiv](https://arxiv.org/abs/1506.03099), Bengio et al, 2015
 - Hybrid computing using a neural network with dynamic external memory, published in [Nature](https://www.dropbox.com/s/0a40xi702grx3dq/2016-graves.pdf)
