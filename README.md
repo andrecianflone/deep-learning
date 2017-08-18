@@ -2,7 +2,8 @@
 - Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders, Zhao et al 2017, ['arXiv'](https://arxiv.org/abs/1703.10960)
 - How to Train Your DRAGAN, Kodali et al 2017. [arXiv](https://arxiv.org/abs/1705.07215)
 - Improved Training of Wasserstein GANs, Gulrajani et al 2017. [arXiv](https://arxiv.org/abs/1704.00028)
-- Wasserstein Gan, Arjovsky et al 2017. [arXiv](https://arxiv.org/abs/1701.07875)
+- Wasserstein Gan, Arjovsky et al 2017. [arXiv](https://arxiv.org/abs/1701.07875), [blog/code](https://wiseodd.github.io/techblog/2017/02/04/wasserstein-gan/)
+- Reading Scene Text in Deep Convolutional Sequences, He et al, 2016. [arXiv](https://arxiv.org/abs/1506.04395)
 ### 2017-03
 - Scheduled Sampling for Sequence Prediction with RNN, [summary](summaries/scheduled_sampling.md), [arXiv](https://arxiv.org/abs/1506.03099), Bengio et al, 2015
 - Hybrid computing using a neural network with dynamic external memory, published in [Nature](https://www.dropbox.com/s/0a40xi702grx3dq/2016-graves.pdf)
@@ -13,7 +14,7 @@
 
 ### 2017-01
 - Optimization As A Model For Few-Shot Learning, Sachin Ravi and Hugo Larochelle, ICLR 2017. [openreview](https://openreview.net/pdf?id=rJY0-Kcll), [video](https://www.youtube.com/watch?v=igJmB6d8y8E)
-- NIPS 2016 Tutorial:Generative Adversarial Networks, [annotated](https://drive.google.com/file/d/0ByV7wn2NzevOa2RqZmJVR2hrUTA/view?usp=sharing),[arXiv](https://arxiv.org/abs/1701.00160)
+- NIPS 2016 Tutorial:Generative Adversarial Networks, [annotated](https://drive.google.com/file/d/0ByV7wn2NzevOa2RqZmJVR2hrUTA/view?usp=sharing),[arXiv](https://arxiv.org/abs/1701.00160), [blog/code](https://wiseodd.github.io/techblog/2016/09/17/gan-tensorflow/)
 
 ### 2016-11
 - [Fully Character-Level Neural Machine Translation without Explicit Segmentation](summaries/fully_char_level_nmt.md), [annotated](https://drive.google.com/open?id=0ByV7wn2NzevOQ0JtTTRuR0pjUlE), [arXiv](https://arxiv.org/abs/1610.03017)
@@ -23,7 +24,7 @@
 - [Implicit Discourse Relation Detection via a Deep Architecture with Gated Relevance Network](summaries/implicit_drd_grn.md), [annotated](https://drive.google.com/file/d/0ByV7wn2NzevOLUxtemFqejJmNVU/view?usp=sharing), [acl](https://www.aclweb.org/anthology/P/P16/P16-1163.pdf)
 
 ### 2016-10
-- [Auto-Encoding Variational Bayes](summaries/auto-encoding_var_bayes.md), [annotated](https://drive.google.com/file/d/0ByV7wn2NzevOcjBIeVBZcTFUQ2s/view?usp=sharing), [arXiv](https://arxiv.org/abs/1312.6114)
+- [Auto-Encoding Variational Bayes](summaries/auto-encoding_var_bayes.md), [annotated](https://drive.google.com/file/d/0ByV7wn2NzevOcjBIeVBZcTFUQ2s/view?usp=sharing), [arXiv](https://arxiv.org/abs/1312.6114), [blog/code](https://wiseodd.github.io/techblog/2016/12/10/variational-autoencoder/), conditional VAE [blog/code](https://wiseodd.github.io/techblog/2016/12/17/conditional-vae/), [code](https://github.com/hwalsuklee/tensorflow-mnist-CVAE)
 - [Semi-supervised Variational Autoencoders for Sequence Classification](summaries/var_auto_sequence_class.md), [annotated](https://drive.google.com/file/d/0ByV7wn2NzevOTXEzLWlNQy1od0k/view?usp=sharing), [arXiv](https://arxiv.org/abs/1603.02514)
 - [Autoencoder review](summaries/autoencoders.md) by Keras author Francois Chollet
 
