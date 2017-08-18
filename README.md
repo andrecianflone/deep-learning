@@ -24,8 +24,8 @@
 - [Implicit Discourse Relation Detection via a Deep Architecture with Gated Relevance Network](summaries/implicit_drd_grn.md), [annotated](https://drive.google.com/file/d/0ByV7wn2NzevOLUxtemFqejJmNVU/view?usp=sharing), [acl](https://www.aclweb.org/anthology/P/P16/P16-1163.pdf)
 
 ### 2016-10
-- [Auto-Encoding Variational Bayes](summaries/auto-encoding_var_bayes.md), [annotated](https://drive.google.com/file/d/0ByV7wn2NzevOcjBIeVBZcTFUQ2s/view?usp=sharing), [arXiv](https://arxiv.org/abs/1312.6114), [blog/code](https://wiseodd.github.io/techblog/2016/12/10/variational-autoencoder/), conditional VAE [blog/code](https://wiseodd.github.io/techblog/2016/12/17/conditional-vae/), [code](https://github.com/hwalsuklee/tensorflow-mnist-CVAE)
-- [Semi-supervised Variational Autoencoders for Sequence Classification](summaries/var_auto_sequence_class.md), [annotated](https://drive.google.com/file/d/0ByV7wn2NzevOTXEzLWlNQy1od0k/view?usp=sharing), [arXiv](https://arxiv.org/abs/1603.02514)
+- Learning Structured Output Representation using Deep Conditional Generative Models, Sohn et al 2015. (Conditional VAE) [nips](https://papers.nips.cc/paper/5775-learning-structured-output-representation-using-deep-conditional-generative-models), [blog/code](https://wiseodd.github.io/techblog/2016/12/17/conditional-vae/), [code](https://github.com/hwalsuklee/tensorflow-mnist-CVAE)
+- [Auto-Encoding Variational Bayes](summaries/auto-encoding_var_bayes.md), [annotated](https://drive.google.com/file/d/0ByV7wn2NzevOcjBIeVBZcTFUQ2s/view?usp=sharing), [arXiv](https://arxiv.org/abs/1312.6114), [blog/code](https://wiseodd.github.io/techblog/2016/12/10/variational-autoencoder/), - [Semi-supervised Variational Autoencoders for Sequence Classification](summaries/var_auto_sequence_class.md), [annotated](https://drive.google.com/file/d/0ByV7wn2NzevOTXEzLWlNQy1od0k/view?usp=sharing), [arXiv](https://arxiv.org/abs/1603.02514)
 - [Autoencoder review](summaries/autoencoders.md) by Keras author Francois Chollet
 
 # Deep Learning Resources
