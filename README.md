@@ -1,17 +1,17 @@
 ### 2017-08
-- Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets, Yang et al 2017. [`arXiv`](https://arxiv.org/abs/1703.04887)
-- Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders, Zhao et al 2017. [`arXiv`](https://arxiv.org/abs/1703.10960)
+- Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets, Yang et al 2017. [arXiv](https://arxiv.org/abs/1703.04887)
+- Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders, Zhao et al 2017. [arXiv](https://arxiv.org/abs/1703.10960)
 - How to Train Your DRAGAN, Kodali et al 2017. [arXiv](https://arxiv.org/abs/1705.07215)
 - Improved Training of Wasserstein GANs, Gulrajani et al 2017. [arXiv](https://arxiv.org/abs/1704.00028)
 - Wasserstein Gan, Arjovsky et al 2017. [arXiv](https://arxiv.org/abs/1701.07875), [`read-through`](http://www.alexirpan.com/2017/02/22/wasserstein-gan.html), [`Kantorovich-Rubinstein duality`](https://vincentherrmann.github.io/blog/wasserstein/), [`WGAN-tensorflow`](https://github.com/shekkizh/WassersteinGAN.tensorflow), [`blog/code`](https://wiseodd.github.io/techblog/2017/02/04/wasserstein-gan/)
 - Reading Scene Text in Deep Convolutional Sequences, He et al, 2016. [arXiv](https://arxiv.org/abs/1506.04395)
 ### 2017-03
-- Scheduled Sampling for Sequence Prediction with RNN, [summary](summaries/scheduled_sampling.md), [arXiv](https://arxiv.org/abs/1506.03099), Bengio et al, 2015
+- Scheduled Sampling for Sequence Prediction with RNN, Bengio et al, 2015 [arXiv](https://arxiv.org/abs/1506.03099), [`summary`](summaries/scheduled_sampling.md),
 - Hybrid computing using a neural network with dynamic external memory, published in [Nature](https://www.dropbox.com/s/0a40xi702grx3dq/2016-graves.pdf)
 - Neural Turing Machine, [arXiv](https://arxiv.org/abs/1410.5401)
 - Memory Networks, [arXiv](https://arxiv.org/abs/1410.3916)
 - Deep Photo Style Transfer, [arXiv](https://arxiv.org/abs/1703.07511)
-- Matching Networks for One Shot Learning, Vinyals et al, NIPS 2016. [my summary](summaries/matching_networks.md), [arXiv](https://arxiv.org/abs/1606.04080). Unofficial [code in TF](https://github.com/zergylord/oneshot). [karpathy notes](http://www.shortscience.org/paper?bibtexKey=journals/corr/VinyalsBLKW16#karpathy), [Colyer blog](https://blog.acolyer.org/2017/01/03/matching-networks-for-one-shot-learning/)
+- Matching Networks for One Shot Learning, Vinyals et al, NIPS 2016. [arXiv](https://arxiv.org/abs/1606.04080). [`summary`](summaries/matching_networks.md), [`code`](https://github.com/zergylord/oneshot). [`karpathy notes`](http://www.shortscience.org/paper?bibtexKey=journals/corr/VinyalsBLKW16#karpathy), [`Colyer blog`](https://blog.acolyer.org/2017/01/03/matching-networks-for-one-shot-learning/)
 
 ### 2017-01
 - Optimization As A Model For Few-Shot Learning, Sachin Ravi and Hugo Larochelle, ICLR 2017. [openreview](https://openreview.net/pdf?id=rJY0-Kcll), [video](https://www.youtube.com/watch?v=igJmB6d8y8E)
@@ -30,7 +30,7 @@
 - [Autoencoder review](summaries/autoencoders.md) by Keras author Francois Chollet
 
 # Deep Learning Resources
-Resources for deep learning: papers, articles, courses  
+Resources for deep learning: papers, articles, courses
 
 ## Datasets
 - UCI [machine learning repository](https://archive.ics.uci.edu/ml/datasets.html?format=&task=&att=&area=&numAtt=&numIns=&type=&sort=instDown&view=table). 360 datasets, some very large. Nice sorting feature, such as ">1000 instance/classification/text" results in [14 data sets](https://archive.ics.uci.edu/ml/datasets.html?format=&task=cla&att=&area=&numAtt=&numIns=greater1000&type=&sort=instDown&view=table)
@@ -86,7 +86,7 @@ Resources for deep learning: papers, articles, courses
 - [Multichannel Variable-Size Convolution for Sentence Classification. Yin, 2015](https://aclweb.org/anthology/K/K15/K15-1021.pdf)
   * Interesting, borrows multichannel from image CNN, where each channel is a different word embedding.
 - [A CNN for Modelling Sentences. Kalchbrenner et al, 2014](http://phd.nal.co/papers/Kalchbrenner_DCNN_ACL14)
-  * Dynamic k-max pooling for variable length sentences. 
+  * Dynamic k-max pooling for variable length sentences.
 - [Semantic Relation Classification via Convolutional Neural Networks with Simple Negative Sampling. Xu et al, 2015](http://arxiv.org/pdf/1506.07650v1.pdf)
 - [Text Understanding from Scratch. Zhang, LeCunn. (2015)](http://arxiv.org/abs/1502.01710)
 - [Kim. Convolutional Neural Networks for Sentence Classification (2014)](http://arxiv.org/pdf/1408.5882v2.pdf)
@@ -126,8 +126,8 @@ Resources for deep learning: papers, articles, courses
 - [Deep Learning for NLP, Stanford (2015)](http://cs224d.stanford.edu/)
   * Click "syllabus" for full material
 - [Stanford Deep Learning tutorials](http://ufldl.stanford.edu/tutorial/)
-  * From basics of Machine Learning, to DNN, CNN, and others. 
-  * Includes code. 
+  * From basics of Machine Learning, to DNN, CNN, and others.
+  * Includes code.
 - Bengio 3 part lecture series on DL
   * Part [1](https://www.youtube.com/watch?v=JuimBuvEWBg)
   * [2](https://www.youtube.com/watch?v=Fl-W7_z3w3o)
