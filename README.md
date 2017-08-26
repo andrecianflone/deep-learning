@@ -1,4 +1,5 @@
 ### 2017-08
+- Regularizing and Optimizing LSTM Language Models, Merity et al 2017. [arXiv](http://lanl.arxiv.org/abs/1708.02182v1)
 - Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets, Yang et al 2017. [arXiv](https://arxiv.org/abs/1703.04887)
 - Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders, Zhao et al 2017. [arXiv](https://arxiv.org/abs/1703.10960)
 - How to Train Your DRAGAN, Kodali et al 2017. [arXiv](https://arxiv.org/abs/1705.07215)
@@ -6,6 +7,7 @@
 - Wasserstein Gan, Arjovsky et al 2017. [arXiv](https://arxiv.org/abs/1701.07875), [`read-through`](http://www.alexirpan.com/2017/02/22/wasserstein-gan.html), [`Kantorovich-Rubinstein duality`](https://vincentherrmann.github.io/blog/wasserstein/), [`WGAN-tensorflow`](https://github.com/shekkizh/WassersteinGAN.tensorflow), [`blog/code`](https://wiseodd.github.io/techblog/2017/02/04/wasserstein-gan/)
 - Reading Scene Text in Deep Convolutional Sequences, He et al, 2016. [arXiv](https://arxiv.org/abs/1506.04395)
 ### 2017-03
+- An Actor-Critic Algorithm for Sequence Prediction, Bahdanau et al 2017. [arXiv](https://arxiv.org/abs/1607.07086), [`code`](https://github.com/rizar/actor-critic-public)
 - Scheduled Sampling for Sequence Prediction with RNN, Bengio et al, 2015 [arXiv](https://arxiv.org/abs/1506.03099), [`summary`](summaries/scheduled_sampling.md),
 - Hybrid computing using a neural network with dynamic external memory, published in [Nature](https://www.dropbox.com/s/0a40xi702grx3dq/2016-graves.pdf)
 - Neural Turing Machine, [arXiv](https://arxiv.org/abs/1410.5401)
