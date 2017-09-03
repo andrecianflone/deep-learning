@@ -1,9 +1,10 @@
 ### 2017-08
+- A Brief Survey of Deep Reinforcement Learning, Arulkumaran et al 2017. [arXiv](https://arxiv.org/abs/1708.05866)
 - Regularizing and Optimizing LSTM Language Models, Merity et al 2017. [arXiv](http://lanl.arxiv.org/abs/1708.02182v1)
 - Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets, Yang et al 2017. [arXiv](https://arxiv.org/abs/1703.04887)
 - Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders, Zhao et al 2017. [arXiv](https://arxiv.org/abs/1703.10960)
 - How to Train Your DRAGAN, Kodali et al 2017. [arXiv](https://arxiv.org/abs/1705.07215)
-- Improved Training of Wasserstein GANs, Gulrajani et al 2017. [arXiv](https://arxiv.org/abs/1704.00028)
+- Improved Training of Wasserstein GANs, Gulrajani et al 2017. [arXiv](https://arxiv.org/abs/1704.00028), [`blog`](https://lernapparat.de/improved-wasserstein-gan/), [`blog`](http://lernapparat.de/more-improved-wgan/), [`code`](https://github.com/igul222/improved_wgan_training)
 - Wasserstein Gan, Arjovsky et al 2017. [arXiv](https://arxiv.org/abs/1701.07875), [`read-through`](http://www.alexirpan.com/2017/02/22/wasserstein-gan.html), [`Kantorovich-Rubinstein duality`](https://vincentherrmann.github.io/blog/wasserstein/), [`WGAN-tensorflow`](https://github.com/shekkizh/WassersteinGAN.tensorflow), [`blog/code`](https://wiseodd.github.io/techblog/2017/02/04/wasserstein-gan/)
 - Reading Scene Text in Deep Convolutional Sequences, He et al, 2016. [arXiv](https://arxiv.org/abs/1506.04395)
 ### 2017-03
