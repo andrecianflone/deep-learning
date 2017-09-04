@@ -1,3 +1,8 @@
+### 2017-09
+- Attention-over-Attention Neural Networks for Reading Comprehension, Cui et al 2017. [arXiv](https://arxiv.org/abs/1607.04423), [`code`](https://github.com/OlavHN/attention-over-attention)
+- Get To The Point: Summarization with Pointer-Generator Networks, See et al 2017. [arXiv](https://arxiv.org/abs/1704.04368), [`code`](https://github.com/abisee/cnn-dailymail)
+- β-VAE: LEARNING BASIC VISUAL CONCEPTS WITH A CONSTRAINED VARIATIONAL FRAMEWORK, Higgins et al 2017. [pdf](https://openreview.net/pdf?id=Sy2fzU9gl)
+- Massive Exploration of Neural Machine Translation Architectures, Britz et al 2017. [arXiv](https://arxiv.org/abs/1703.03906v2)
 ### 2017-08
 - A Brief Survey of Deep Reinforcement Learning, Arulkumaran et al 2017. [arXiv](https://arxiv.org/abs/1708.05866)
 - Regularizing and Optimizing LSTM Language Models, Merity et al 2017. [arXiv](http://lanl.arxiv.org/abs/1708.02182v1)
