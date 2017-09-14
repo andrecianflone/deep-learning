@@ -1,4 +1,9 @@
 ### 2017-09
+- Training RNNs as Fast as CNNs, Lei et al, 2017. [arXiv](https://arxiv.org/abs/1709.02755)
+- Quasi-Recurrent Neural Networks, Bradbury et al 2017. [arXiv](https://openreview.net/pdf?id=H1zJ-v5xl), [`author blog/code`](https://einstein.ai/research/new-neural-network-building-block-allows-faster-and-more-accurate-text-understanding)
+- A Deep Reinforcement Learning Chatbot, Serban et al, 2017. [arXiv](https://arxiv.org/abs/1709.02349)
+- Independently Controllable Factors, Thomas et al, 2017. [arXiv](https://arxiv.org/abs/1708.01289)
+- Attention Is All You Need, Vaswani et al, 2017. [arXiv](https://arxiv.org/abs/1706.03762), [`code`](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/transformer.py), [reddit](https://www.reddit.com/r/MachineLearning/comments/6gwqiw/r_170603762_attention_is_all_you_need_sota_nmt/)
 - Attention-over-Attention Neural Networks for Reading Comprehension, Cui et al 2017. [arXiv](https://arxiv.org/abs/1607.04423), [`code`](https://github.com/OlavHN/attention-over-attention)
 - Get To The Point: Summarization with Pointer-Generator Networks, See et al 2017. [arXiv](https://arxiv.org/abs/1704.04368), [`code`](https://github.com/abisee/cnn-dailymail)
 - β-VAE: LEARNING BASIC VISUAL CONCEPTS WITH A CONSTRAINED VARIATIONAL FRAMEWORK, Higgins et al 2017. [pdf](https://openreview.net/pdf?id=Sy2fzU9gl)
