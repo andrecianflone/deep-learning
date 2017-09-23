@@ -1,13 +1,16 @@
 ### 2017-09
+- End-to-end Neural Coreference Resolution, Lee et al, 2017. [arXiv](https://arxiv.org/abs/1707.07045)
+- Oriented Response Networks, Zhou et al 2017. [arXiv](https://arxiv.org/abs/1701.01833)
 - Training RNNs as Fast as CNNs, Lei et al, 2017. [arXiv](https://arxiv.org/abs/1709.02755)
 - Quasi-Recurrent Neural Networks, Bradbury et al 2017. [arXiv](https://openreview.net/pdf?id=H1zJ-v5xl), [`author blog/code`](https://einstein.ai/research/new-neural-network-building-block-allows-faster-and-more-accurate-text-understanding)
 - A Deep Reinforcement Learning Chatbot, Serban et al, 2017. [arXiv](https://arxiv.org/abs/1709.02349)
 - Independently Controllable Factors, Thomas et al, 2017. [arXiv](https://arxiv.org/abs/1708.01289)
 - Attention Is All You Need, Vaswani et al, 2017. [arXiv](https://arxiv.org/abs/1706.03762), [`code`](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/transformer.py), [reddit](https://www.reddit.com/r/MachineLearning/comments/6gwqiw/r_170603762_attention_is_all_you_need_sota_nmt/)
 - Attention-over-Attention Neural Networks for Reading Comprehension, Cui et al 2017. [arXiv](https://arxiv.org/abs/1607.04423), [`code`](https://github.com/OlavHN/attention-over-attention)
-- Get To The Point: Summarization with Pointer-Generator Networks, See et al 2017. [arXiv](https://arxiv.org/abs/1704.04368), [`code`](https://github.com/abisee/cnn-dailymail)
+- Get To The Point: Summarization with Pointer-Generator Networks, See et al 2017. [arXiv](https://arxiv.org/abs/1704.04368), [`author blog`](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html), [`code`](https://github.com/abisee/cnn-dailymail)
 - β-VAE: LEARNING BASIC VISUAL CONCEPTS WITH A CONSTRAINED VARIATIONAL FRAMEWORK, Higgins et al 2017. [pdf](https://openreview.net/pdf?id=Sy2fzU9gl)
 - Massive Exploration of Neural Machine Translation Architectures, Britz et al 2017. [arXiv](https://arxiv.org/abs/1703.03906v2)
+
 ### 2017-08
 - A Brief Survey of Deep Reinforcement Learning, Arulkumaran et al 2017. [arXiv](https://arxiv.org/abs/1708.05866)
 - Regularizing and Optimizing LSTM Language Models, Merity et al 2017. [arXiv](http://lanl.arxiv.org/abs/1708.02182v1)
@@ -17,6 +20,7 @@
 - Improved Training of Wasserstein GANs, Gulrajani et al 2017. [arXiv](https://arxiv.org/abs/1704.00028), [`blog`](https://lernapparat.de/improved-wasserstein-gan/), [`blog`](http://lernapparat.de/more-improved-wgan/), [`code`](https://github.com/igul222/improved_wgan_training)
 - Wasserstein Gan, Arjovsky et al 2017. [arXiv](https://arxiv.org/abs/1701.07875), [`read-through`](http://www.alexirpan.com/2017/02/22/wasserstein-gan.html), [`Kantorovich-Rubinstein duality`](https://vincentherrmann.github.io/blog/wasserstein/), [`WGAN-tensorflow`](https://github.com/shekkizh/WassersteinGAN.tensorflow), [`blog/code`](https://wiseodd.github.io/techblog/2017/02/04/wasserstein-gan/)
 - Reading Scene Text in Deep Convolutional Sequences, He et al, 2016. [arXiv](https://arxiv.org/abs/1506.04395)
+
 ### 2017-03
 - Recurrent Batch Normalization, Cooijmans et al, 2017. [arXiv](https://arxiv.org/abs/1603.09025), [`code-tf`](https://github.com/OlavHN/bnlstm)
 - An Actor-Critic Algorithm for Sequence Prediction, Bahdanau et al 2017. [arXiv](https://arxiv.org/abs/1607.07086), [`code`](https://github.com/rizar/actor-critic-public)
