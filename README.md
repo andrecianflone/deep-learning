@@ -1,5 +1,7 @@
 ### 2017-09
+- Opening the black box of Deep Neural Networks via Information, Schwartz-Ziv and Tishbly, 2017. [arXiv](https://arxiv.org/abs/1703.00810)
 - End-to-end Neural Coreference Resolution, Lee et al, 2017. [arXiv](https://arxiv.org/abs/1707.07045)
+- Deep Reinforcement Learning for Mention-Ranking Coreference Models, Clark et al, 2016. [arXiv](https://arxiv.org/abs/1609.08667)
 - Oriented Response Networks, Zhou et al 2017. [arXiv](https://arxiv.org/abs/1701.01833)
 - Training RNNs as Fast as CNNs, Lei et al, 2017. [arXiv](https://arxiv.org/abs/1709.02755)
 - Quasi-Recurrent Neural Networks, Bradbury et al 2017. [arXiv](https://openreview.net/pdf?id=H1zJ-v5xl), [`author blog/code`](https://einstein.ai/research/new-neural-network-building-block-allows-faster-and-more-accurate-text-understanding)
@@ -10,6 +12,7 @@
 - Get To The Point: Summarization with Pointer-Generator Networks, See et al 2017. [arXiv](https://arxiv.org/abs/1704.04368), [`author blog`](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html), [`code`](https://github.com/abisee/cnn-dailymail)
 - β-VAE: LEARNING BASIC VISUAL CONCEPTS WITH A CONSTRAINED VARIATIONAL FRAMEWORK, Higgins et al 2017. [pdf](https://openreview.net/pdf?id=Sy2fzU9gl)
 - Massive Exploration of Neural Machine Translation Architectures, Britz et al 2017. [arXiv](https://arxiv.org/abs/1703.03906v2)
+- Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks, 2017. [arXiv](https://arxiv.org/abs/1703.10593), ['examples'](https://junyanz.github.io/CycleGAN/), [`code-torch`](https://github.com/junyanz/CycleGAN), [`code-PyT`](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 
 ### 2017-08
 - A Brief Survey of Deep Reinforcement Learning, Arulkumaran et al 2017. [arXiv](https://arxiv.org/abs/1708.05866)
@@ -47,9 +50,6 @@
 - [Auto-Encoding Variational Bayes](summaries/auto-encoding_var_bayes.md), [annotated](https://drive.google.com/file/d/0ByV7wn2NzevOcjBIeVBZcTFUQ2s/view?usp=sharing), [arXiv](https://arxiv.org/abs/1312.6114), [blog/code](https://wiseodd.github.io/techblog/2016/12/10/variational-autoencoder/), - [Semi-supervised Variational Autoencoders for Sequence Classification](summaries/var_auto_sequence_class.md), [annotated](https://drive.google.com/file/d/0ByV7wn2NzevOTXEzLWlNQy1od0k/view?usp=sharing), [arXiv](https://arxiv.org/abs/1603.02514)
 - [Autoencoder review](summaries/autoencoders.md) by Keras author Francois Chollet
 
-# Deep Learning Resources
-Resources for deep learning: papers, articles, courses
-
 ## Datasets
 - UCI [machine learning repository](https://archive.ics.uci.edu/ml/datasets.html?format=&task=&att=&area=&numAtt=&numIns=&type=&sort=instDown&view=table). 360 datasets, some very large. Nice sorting feature, such as ">1000 instance/classification/text" results in [14 data sets](https://archive.ics.uci.edu/ml/datasets.html?format=&task=cla&att=&area=&numAtt=&numIns=greater1000&type=&sort=instDown&view=table)
 
@@ -63,7 +63,7 @@ Resources for deep learning: papers, articles, courses
 - [Schmidhuber, J. (2015). Deep learning in neural networks: An overview. Neural Networks, 61, 85–117.](http://arxiv.org/abs/1404.7828)
     * Extensive overview
 
-## Neural Networks
+## Neural Networks Basics
 
 - [Michael Nielsen book on NN](http://neuralnetworksanddeeplearning.com/chap1.html)
 - [Hacker's guide to Neural Networks. Andrej Karpathy blog](http://karpathy.github.io/neuralnets/)
@@ -78,6 +78,9 @@ Resources for deep learning: papers, articles, courses
   * Longer tutorial on the topic, 34 pages
 - [Overview of various optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/)
   * [Summary](summaries/overview_optimization.md)
+
+## Misc
+- Multi-Task Learning Objectives for Natural Language Processing, [blog](http://ruder.io/multi-task-learning-nlp/index.html)
 
 ## Recurrent Neural Network (RNN)
 
@@ -96,7 +99,7 @@ Resources for deep learning: papers, articles, courses
 - [Awesome Recurrent Neural Networks](https://github.com/kjw0612/awesome-rnn#lectures)
   * Curated list of RNN resources
 
-## Convolutional Neural Network (CNN, or ConvNet)
+## CNNs
 - [Character-level Convolutional Networks for Text Classification](http://arxiv.org/abs/1509.01626)
   * [Annotated](https://drive.google.com/open?id=0ByV7wn2NzevOZEw4QV9tbFNyVTQ)
 - [Collobert. Natural Language Processing (Almost) from Scratch (2011)](http://dl.acm.org/citation.cfm?id=2078186)
@@ -119,23 +122,7 @@ Resources for deep learning: papers, articles, courses
 - [Playing Atari with Deep Reinforcement Learning. Mnih et al. (2014)](http://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 - [Youtube Demo](https://www.youtube.com/watch?v=wfL4L_l4U9A)
 
-## Other applications of DL
-- [Evolving Neural Networks through Augmenting Topologies. Stanley, Miikkulainen (2002)](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf)
-- [Implementation of Evolutionary Algorithms for Deep Architectures. Sreenivas Sremath Tirumala (2014)](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.664.6933)
-- [DL in Finance](http://arxiv.org/pdf/1602.06561v2.pdf)
-
-## General Topics
-
-- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift. Ioffe & Szegedy, 2015](http://arxiv.org/abs/1502.03167)
-  * [Annotated](https://drive.google.com/open?id=0ByV7wn2NzevOSW9jVC14VEpSUHc)
-- [Dropout: A Simple Way to Prevent NNs from Overfitting. Srivastava, Hinton et al. 2014](http://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf)
-- [Problem of vanishing gradients](http://neuralnetworksanddeeplearning.com/chap5.html#the_vanishing_gradient_problem)
-  * [Summary](summaries/vanishing_gradients.md)
-- [Simple end-to-end in TensorFlow](http://bcomposes.com/2015/11/26/simple-end-to-end-tensorflow-examples/)
-  * [Summary](summaries/end-to-end_tf.md)
-
 ## Online Courses
-
 - [Deep Learning. Udacity, 2015](https://www.udacity.com/course/deep-learning--ud730)
   * Very brief. It is more about getting a feel for DL and specifically about using TensorFlow for DL.
 - [Convolutional Neural Networks for Visual Recognition. Stanford, 2016](http://cs231n.stanford.edu/)
@@ -146,28 +133,6 @@ Resources for deep learning: papers, articles, courses
 - [Stanford Deep Learning tutorials](http://ufldl.stanford.edu/tutorial/)
   * From basics of Machine Learning, to DNN, CNN, and others.
   * Includes code.
-- Bengio 3 part lecture series on DL
-  * Part [1](https://www.youtube.com/watch?v=JuimBuvEWBg)
-  * [2](https://www.youtube.com/watch?v=Fl-W7_z3w3o)
-  * [3](https://www.youtube.com/watch?v=_cohR7LAgWA)
 
 ## Books
-
-- [Yoshua Bengio, Ian Goodfellow and Aaron Courville (2015). Deep Learning. Book in preparation for MIT Press.](http://www.deeplearningbook.org)
-
-## Lecture Notes
-- [Natural Language Understanding with Distributed Representation](http://arxiv.org/pdf/1511.07916v1.pdf)
-- Video Lectures: http://techtalks.tv/natural-language-processing-nyu/
-- [A Primer on Neural Network Models for Natural Language Processing] (http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
-
-## Other Reading Lists
-[DeepLearning.net's list]
-(http://deeplearning.net/reading-list/)
-
-## Tools
-- [TensorFlow](https://www.tensorflow.org)
-  * [white paper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
-- [Torch](http://torch.ch)
-  * [Learn Lua in 15 minutes](http://tylerneylon.com/a/learn-lua/)
-- [Deeplearning4j](http://deeplearning4j.org)
-- [Theano](http://deeplearning.net/software/theano/)
+- [Ian Goodfellow, Yoshua Bengio, Aaron Courville (2016). Deep Learning.](http://www.deeplearningbook.org)
