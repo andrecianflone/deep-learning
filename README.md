@@ -1,4 +1,5 @@
 ### 2017-09
+- Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog, Kottur et al, 2017. [arXiv](https://arxiv.org/abs/1706.08502)
 - Opening the black box of Deep Neural Networks via Information, Schwartz-Ziv and Tishbly, 2017. [arXiv](https://arxiv.org/abs/1703.00810)
 - End-to-end Neural Coreference Resolution, Lee et al, 2017. [arXiv](https://arxiv.org/abs/1707.07045)
 - Deep Reinforcement Learning for Mention-Ranking Coreference Models, Clark et al, 2016. [arXiv](https://arxiv.org/abs/1609.08667)
@@ -121,6 +122,9 @@
 ## Deep Reinforcement Learning
 - [Playing Atari with Deep Reinforcement Learning. Mnih et al. (2014)](http://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 - [Youtube Demo](https://www.youtube.com/watch?v=wfL4L_l4U9A)
+- Simple Reinforcement Learning with TensorFlow series, part [0](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
+- Basic DQN in Keras, [`blog`](https://keon.io/deep-q-learning/), [`code`](https://github.com/keon/deep-q-learning)
+- Minimal and clean examples, [`code`](https://github.com/rlcode/reinforcement-learning)
 
 ## Online Courses
 - [Deep Learning. Udacity, 2015](https://www.udacity.com/course/deep-learning--ud730)
