@@ -1,3 +1,9 @@
+### 2017-10
+- Language Modeling with Gated Convolutional Networks, Dauphin et al, 2017, [arXiv](https://arxiv.org/abs/1612.08083)
+- Convolutional Sequence to Sequence Learning, Gehring et al, 2017. [arXiv](https://arxiv.org/abs/1705.03122)
+- A Deep Reinforced Model for Abstractive Summarization, Paulus et al, 2017. [arXiv](https://arxiv.org/abs/1705.04304)
+- Emergence of Grounded Compositional Language in Multi-Agent Populations, Mordatch and Abbeel, 2017. [arXiv](https://arxiv.org/abs/1703.04908), [`author blog`](https://blog.openai.com/learning-to-communicate/). Note: related to Kottur et al 2017.
+
 ### 2017-09
 - Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog, Kottur et al, 2017. [arXiv](https://arxiv.org/abs/1706.08502)
 - Opening the black box of Deep Neural Networks via Information, Schwartz-Ziv and Tishbly, 2017. [arXiv](https://arxiv.org/abs/1703.00810)
@@ -125,6 +131,8 @@
 - Simple Reinforcement Learning with TensorFlow series, part [0](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
 - Basic DQN in Keras, [`blog`](https://keon.io/deep-q-learning/), [`code`](https://github.com/keon/deep-q-learning)
 - Minimal and clean examples, [`code`](https://github.com/rlcode/reinforcement-learning)
+- Demystifying Deep RL, [`blog`](http://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/)
+- Berkeley course on DRL, [`course`](http://rll.berkeley.edu/deeprlcourse/)
 
 ## Online Courses
 - [Deep Learning. Udacity, 2015](https://www.udacity.com/course/deep-learning--ud730)
