@@ -1,4 +1,6 @@
 ### 2017-10
+- A Deep Reinforced Model for Abstractive Summarization, Paulus et al, 2017. [arXiv](https://arxiv.org/abs/1705.04304)
+- Rainbow: Combining Improvements in Deep Reinforcement Learning, Hessel et al, 2017. [arXiv](https://arxiv.org/abs/1710.02298)
 - Language Modeling with Gated Convolutional Networks, Dauphin et al, 2017, [arXiv](https://arxiv.org/abs/1612.08083)
 - Convolutional Sequence to Sequence Learning, Gehring et al, 2017. [arXiv](https://arxiv.org/abs/1705.03122)
 - A Deep Reinforced Model for Abstractive Summarization, Paulus et al, 2017. [arXiv](https://arxiv.org/abs/1705.04304)
@@ -107,6 +109,7 @@
   * Curated list of RNN resources
 
 ## CNNs
+- [Karpathy cs231 review](http://cs231n.github.io/convolutional-networks/)
 - [Character-level Convolutional Networks for Text Classification](http://arxiv.org/abs/1509.01626)
   * [Annotated](https://drive.google.com/open?id=0ByV7wn2NzevOZEw4QV9tbFNyVTQ)
 - [Collobert. Natural Language Processing (Almost) from Scratch (2011)](http://dl.acm.org/citation.cfm?id=2078186)
