@@ -1,4 +1,5 @@
 ### 2017-10
+- Mastering the game of Go without human knowledge, Silver et al, 2017. [arXiv](https://www.nature.com/nature/journal/v550/n7676/full/nature24270.html)
 - A Deep Reinforced Model for Abstractive Summarization, Paulus et al, 2017. [arXiv](https://arxiv.org/abs/1705.04304), [`author blog`](https://einstein.ai/research/your-tldr-by-an-ai-a-deep-reinforced-model-for-abstractive-summarization)
 - Rainbow: Combining Improvements in Deep Reinforcement Learning, Hessel et al, 2017. [arXiv](https://arxiv.org/abs/1710.02298)
 - Language Modeling with Gated Convolutional Networks, Dauphin et al, 2017, [arXiv](https://arxiv.org/abs/1612.08083)
