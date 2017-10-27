@@ -1,9 +1,11 @@
 ### 2017-10
+- Meta Learning Shared Hierarchies, Frans et al, 2017. [arXiv](https://arxiv.org/abs/1710.09767), [`author blog`](https://blog.openai.com/learning-a-hierarchy/)
 - Mastering the game of Go without human knowledge, Silver et al, 2017. [arXiv](https://www.nature.com/nature/journal/v550/n7676/full/nature24270.html)
 - Relevance of Unsupervised Metrics in Task-Oriented Dialogue for Evaluating Natural Language Generation, Sharma et al, 2017. [arXiv](https://arxiv.org/abs/1706.09799)
 - GuessWhat?! Visual object discovery through multi-modal dialogue, de Vries et al, 2017. [arXiv](https://arxiv.org/abs/1611.08481)
 - A Frame Tracking Model for Memory-Enhanced Dialogue Systems, Schulz et al, 2017. [arXiv](https://arxiv.org/abs/1706.01690)
 - A Deep Reinforced Model for Abstractive Summarization, Paulus et al, 2017. [arXiv](https://arxiv.org/abs/1705.04304), [`author blog`](https://einstein.ai/research/your-tldr-by-an-ai-a-deep-reinforced-model-for-abstractive-summarization)
+- (about ROUGE score for summarization) ROUGE: A Package for Automatic Evaluation of Summaries, Chin-Yew Lin, 2004. [acl](http://anthology.aclweb.org/W/W04/W04-1013.pdf)
 - Rainbow: Combining Improvements in Deep Reinforcement Learning, Hessel et al, 2017. [arXiv](https://arxiv.org/abs/1710.02298)
 - Language Modeling with Gated Convolutional Networks, Dauphin et al, 2017, [arXiv](https://arxiv.org/abs/1612.08083)
 - Convolutional Sequence to Sequence Learning, Gehring et al, 2017. [arXiv](https://arxiv.org/abs/1705.03122)
