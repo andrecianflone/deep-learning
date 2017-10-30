@@ -1,4 +1,8 @@
 ### 2017-10
+- Progressive Growing of GANs for Improved Quality, Stability, and Variation, Karras et al, 2017. [pdf](http://research.nvidia.com/sites/default/files/pubs/2017-10_Progressive-Growing-of//karras2017gan-paper.pdf)
+- A Closer Look at Memorization in Deep Networks, Arpit et al, 2017. [arXiv](https://arxiv.org/abs/1706.05394)
+- Understanding deep learning requires rethinking generalization, Zhang et al, 2016. [arXiv](https://arxiv.org/abs/1611.03530)
+- The Loss Surfaces of Multilayer Networks, Choromanska et al, 2015. [arXiv](https://arxiv.org/abs/1412.0233)
 - Meta Learning Shared Hierarchies, Frans et al, 2017. [arXiv](https://arxiv.org/abs/1710.09767), [`author blog`](https://blog.openai.com/learning-a-hierarchy/)
 - Mastering the game of Go without human knowledge, Silver et al, 2017. [arXiv](https://www.nature.com/nature/journal/v550/n7676/full/nature24270.html)
 - Relevance of Unsupervised Metrics in Task-Oriented Dialogue for Evaluating Natural Language Generation, Sharma et al, 2017. [arXiv](https://arxiv.org/abs/1706.09799)
