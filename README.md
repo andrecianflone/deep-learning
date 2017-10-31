@@ -1,4 +1,7 @@
 ### 2017-10
+- Adversarial Learning for Neural Dialogue Generation, Li et al, 2017. [arXiv](https://arxiv.org/abs/1701.06547)
+- Frustratingly Short Attention Spans in Neural Language Modeling, Daniluk et al, 2017. [arXiv](https://arxiv.org/abs/1702.04521)
+- Adversarial Training Methods for Semi-Supervised Text Classification, Miyato et al, 2017. [arXiv](https://arxiv.org/abs/1605.07725)
 - Progressive Growing of GANs for Improved Quality, Stability, and Variation, Karras et al, 2017. [pdf](http://research.nvidia.com/sites/default/files/pubs/2017-10_Progressive-Growing-of//karras2017gan-paper.pdf)
 - A Closer Look at Memorization in Deep Networks, Arpit et al, 2017. [arXiv](https://arxiv.org/abs/1706.05394)
 - Understanding deep learning requires rethinking generalization, Zhang et al, 2016. [arXiv](https://arxiv.org/abs/1611.03530)
