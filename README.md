@@ -1,3 +1,16 @@
+### 2017-11
+- Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training, Anonymous, 2017. [openreview](https://openreview.net/pdf?id=SkhQHMW0W)
+- Tying Word Vectors and Word Classifiers: A Loss Framework for Language Modeling, Inan et al 2017. [arXiv](https://arxiv.org/abs/1611.01462)
+- Building machines that learn and think for themselves, Botvinick et al, 2017. [cambridge](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/building-machines-that-learn-and-think-for-themselves/E28DBFEC380D4189FB7754B50066A96F)
+- Neural Discrete Representation Learning, va den Oord et al, 2017. [arXiv](https://arxiv.org/abs/1711.00937)
+- Evolution Strategies, Otoro 2017, blog part [1](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/), [2](http://blog.otoro.net/2017/11/12/evolving-stable-strategies/)
+- Matrix Capsules with EM Routing. Anonymous (likely Hinton lab), 2017. [openreview](https://openreview.net/pdf?id=HJWLfGWRb).
+- Dynamic Routing Between Capsules, Sabour et al, 2017. [arXiv](https://arxiv.org/abs/1710.09829). [`code-keras`](https://github.com/XifengGuo/CapsNet-Keras)
+- Weighted Transformer Network for Machine Translation, Ahmed et al, 2017. [arXiv](https://arxiv.org/abs/1711.02132)
+- Unsupervised Machine Translation Using Monolingual Corpora Only, Lample et al, 2017. [arXiv](https://arxiv.org/abs/1711.00043)
+- Non-Autoregressive Neural Machine Translation, Gu et al, 2017. [arXiv](https://arxiv.org/abs/1711.02281)
+- Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments, Lowe et al, 2017. [arXiv](https://arxiv.org/abs/1706.02275)
+
 ### 2017-10
 - Adversarial Learning for Neural Dialogue Generation, Li et al, 2017. [arXiv](https://arxiv.org/abs/1701.06547)
 - Frustratingly Short Attention Spans in Neural Language Modeling, Daniluk et al, 2017. [arXiv](https://arxiv.org/abs/1702.04521)
@@ -7,7 +20,7 @@
 - Understanding deep learning requires rethinking generalization, Zhang et al, 2016. [arXiv](https://arxiv.org/abs/1611.03530)
 - The Loss Surfaces of Multilayer Networks, Choromanska et al, 2015. [arXiv](https://arxiv.org/abs/1412.0233)
 - Meta Learning Shared Hierarchies, Frans et al, 2017. [arXiv](https://arxiv.org/abs/1710.09767), [`author blog`](https://blog.openai.com/learning-a-hierarchy/)
-- Mastering the game of Go without human knowledge, Silver et al, 2017. [arXiv](https://www.nature.com/nature/journal/v550/n7676/full/nature24270.html)
+- Mastering the game of Go without human knowledge, Silver et al, 2017. [arXiv](https://www.nature.com/nature/journal/v550/n7676/full/nature24270.html), [`blog`](http://tim.hibal.org/blog/alpha-zero-how-and-why-it-works/)
 - Relevance of Unsupervised Metrics in Task-Oriented Dialogue for Evaluating Natural Language Generation, Sharma et al, 2017. [arXiv](https://arxiv.org/abs/1706.09799)
 - GuessWhat?! Visual object discovery through multi-modal dialogue, de Vries et al, 2017. [arXiv](https://arxiv.org/abs/1611.08481)
 - A Frame Tracking Model for Memory-Enhanced Dialogue Systems, Schulz et al, 2017. [arXiv](https://arxiv.org/abs/1706.01690)
@@ -51,6 +64,8 @@
 - Scheduled Sampling for Sequence Prediction with RNN, Bengio et al, 2015 [arXiv](https://arxiv.org/abs/1506.03099), [`summary`](summaries/scheduled_sampling.md),
 - Hybrid computing using a neural network with dynamic external memory, published in [Nature](https://www.dropbox.com/s/0a40xi702grx3dq/2016-graves.pdf)
 - Neural Turing Machine, [arXiv](https://arxiv.org/abs/1410.5401)
+- LEARNING END-TO-END GOAL-ORIENTED DIALOG, Bordes et al, 2017. [arXiv](https://arxiv.org/abs/1605.07683), [`code`](https://github.com/carpedm20/MemN2N-tensorflow)
+- End-To-End Memory Networks, Sukhbaatar et al, 2015, [arXiv](https://arxiv.org/abs/1503.08895)
 - Memory Networks, [arXiv](https://arxiv.org/abs/1410.3916)
 - Deep Photo Style Transfer, [arXiv](https://arxiv.org/abs/1703.07511)
 - Matching Networks for One Shot Learning, Vinyals et al, NIPS 2016. [arXiv](https://arxiv.org/abs/1606.04080). [`summary`](summaries/matching_networks.md), [`code`](https://github.com/zergylord/oneshot). [`karpathy notes`](http://www.shortscience.org/paper?bibtexKey=journals/corr/VinyalsBLKW16#karpathy), [`Colyer blog`](https://blog.acolyer.org/2017/01/03/matching-networks-for-one-shot-learning/)
