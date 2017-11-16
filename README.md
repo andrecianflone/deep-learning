@@ -1,4 +1,6 @@
 ### 2017-11
+- Data Augmentation Generative Adversarial Networks, Antoniou et al, 2017. [arXiv](https://arxiv.org/abs/1711.04340)
+- Adversarial Training Methods for Semi-Supervised Text Classification, Miyato et al, 2017. [arXiv](https://arxiv.org/abs/1605.07725)
 - Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training, Anonymous, 2017. [openreview](https://openreview.net/pdf?id=SkhQHMW0W)
 - Tying Word Vectors and Word Classifiers: A Loss Framework for Language Modeling, Inan et al 2017. [arXiv](https://arxiv.org/abs/1611.01462)
 - Building machines that learn and think for themselves, Botvinick et al, 2017. [cambridge](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/building-machines-that-learn-and-think-for-themselves/E28DBFEC380D4189FB7754B50066A96F)
