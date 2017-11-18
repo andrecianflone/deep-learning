@@ -1,4 +1,5 @@
 ### 2017-11
+- Seq2SQL: Generating Stuctured Queries From Natural Language Using Reinforcement Learning, Zhong et al, 2017. [arXiv](https://arxiv.org/abs/1709.00103)
 - Data Augmentation Generative Adversarial Networks, Antoniou et al, 2017. [arXiv](https://arxiv.org/abs/1711.04340)
 - Adversarial Training Methods for Semi-Supervised Text Classification, Miyato et al, 2017. [arXiv](https://arxiv.org/abs/1605.07725)
 - Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training, Anonymous, 2017. [openreview](https://openreview.net/pdf?id=SkhQHMW0W)
