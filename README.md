@@ -1,4 +1,5 @@
 ### 2017-11
+- Emergence of Invariance and Disentangling in Deep Representations, Achille et al, 2017. [arXiv](https://arxiv.org/abs/1706.01350)
 - Seq2SQL: Generating Stuctured Queries From Natural Language Using Reinforcement Learning, Zhong et al, 2017. [arXiv](https://arxiv.org/abs/1709.00103)
 - Data Augmentation Generative Adversarial Networks, Antoniou et al, 2017. [arXiv](https://arxiv.org/abs/1711.04340)
 - Adversarial Training Methods for Semi-Supervised Text Classification, Miyato et al, 2017. [arXiv](https://arxiv.org/abs/1605.07725)
@@ -6,6 +7,7 @@
 - Tying Word Vectors and Word Classifiers: A Loss Framework for Language Modeling, Inan et al 2017. [arXiv](https://arxiv.org/abs/1611.01462)
 - Building machines that learn and think for themselves, Botvinick et al, 2017. [cambridge](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/building-machines-that-learn-and-think-for-themselves/E28DBFEC380D4189FB7754B50066A96F)
 - Neural Discrete Representation Learning, va den Oord et al, 2017. [arXiv](https://arxiv.org/abs/1711.00937)
+- InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets, Chen et al, 2016. [arXiv](https://arxiv.org/abs/1606.03657), [`blog`](https://towardsdatascience.com/infogan-generative-adversarial-networks-part-iii-380c0c6712cd), [`code`](https://github.com/zjost/InfoGAN)
 - Evolution Strategies, Otoro 2017, blog part [1](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/), [2](http://blog.otoro.net/2017/11/12/evolving-stable-strategies/)
 - Matrix Capsules with EM Routing. Anonymous (likely Hinton lab), 2017. [openreview](https://openreview.net/pdf?id=HJWLfGWRb).
 - Dynamic Routing Between Capsules, Sabour et al, 2017. [arXiv](https://arxiv.org/abs/1710.09829). [`code-keras`](https://github.com/XifengGuo/CapsNet-Keras)
