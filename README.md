@@ -1,6 +1,10 @@
 ### 2017-11
+- Probabilistic Reasoning via Deep Learning: Neural Association Models, Liu et al, 2016. [arXiv](https://arxiv.org/abs/1603.07704)
+- Memory Augmented Neural Networks with Wormhole Connections, Gulcehre et al, 2017. [arXiv](https://arxiv.org/abs/1701.08718)
 - Emergence of Invariance and Disentangling in Deep Representations, Achille et al, 2017. [arXiv](https://arxiv.org/abs/1706.01350)
+- Distilling the Knowledge in a Neural Network, Hinton et al, 2015. [arXiv](https://arxiv.org/abs/1503.02531)
 - Seq2SQL: Generating Stuctured Queries From Natural Language Using Reinforcement Learning, Zhong et al, 2017. [arXiv](https://arxiv.org/abs/1709.00103)
+- Better Text Understanding Through Image-To-Text Transfer, Kurach, 2017. [arXiv](
 - Data Augmentation Generative Adversarial Networks, Antoniou et al, 2017. [arXiv](https://arxiv.org/abs/1711.04340)
 - Adversarial Training Methods for Semi-Supervised Text Classification, Miyato et al, 2017. [arXiv](https://arxiv.org/abs/1605.07725)
 - Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training, Anonymous, 2017. [openreview](https://openreview.net/pdf?id=SkhQHMW0W)
@@ -10,7 +14,7 @@
 - InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets, Chen et al, 2016. [arXiv](https://arxiv.org/abs/1606.03657), [`blog`](https://towardsdatascience.com/infogan-generative-adversarial-networks-part-iii-380c0c6712cd), [`code`](https://github.com/zjost/InfoGAN)
 - Evolution Strategies, Otoro 2017, blog part [1](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/), [2](http://blog.otoro.net/2017/11/12/evolving-stable-strategies/)
 - Matrix Capsules with EM Routing. Anonymous (likely Hinton lab), 2017. [openreview](https://openreview.net/pdf?id=HJWLfGWRb).
-- Dynamic Routing Between Capsules, Sabour et al, 2017. [arXiv](https://arxiv.org/abs/1710.09829). [`code-keras`](https://github.com/XifengGuo/CapsNet-Keras)
+- Dynamic Routing Between Capsules, Sabour et al, 2017. [arXiv](https://arxiv.org/abs/1710.09829). [`code-keras`](https://github.com/XifengGuo/CapsNet-Keras), [`video review`](https://youtu.be/pPN8d0E3900)
 - Weighted Transformer Network for Machine Translation, Ahmed et al, 2017. [arXiv](https://arxiv.org/abs/1711.02132)
 - Unsupervised Machine Translation Using Monolingual Corpora Only, Lample et al, 2017. [arXiv](https://arxiv.org/abs/1711.00043)
 - Non-Autoregressive Neural Machine Translation, Gu et al, 2017. [arXiv](https://arxiv.org/abs/1711.02281)
@@ -46,7 +50,7 @@
 - Quasi-Recurrent Neural Networks, Bradbury et al 2017. [arXiv](https://openreview.net/pdf?id=H1zJ-v5xl), [`author blog/code`](https://einstein.ai/research/new-neural-network-building-block-allows-faster-and-more-accurate-text-understanding)
 - A Deep Reinforcement Learning Chatbot, Serban et al, 2017. [arXiv](https://arxiv.org/abs/1709.02349)
 - Independently Controllable Factors, Thomas et al, 2017. [arXiv](https://arxiv.org/abs/1708.01289)
-- Attention Is All You Need, Vaswani et al, 2017. [arXiv](https://arxiv.org/abs/1706.03762), [`code`](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/transformer.py), [reddit](https://www.reddit.com/r/MachineLearning/comments/6gwqiw/r_170603762_attention_is_all_you_need_sota_nmt/)
+- Attention Is All You Need, Vaswani et al, 2017. [arXiv](https://arxiv.org/abs/1706.03762), [`code`](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/transformer.py), [`google blog`](https://research.googleblog.com/2017/08/transformer-novel-neural-network.html), [`reddit`](https://www.reddit.com/r/MachineLearning/comments/6gwqiw/r_170603762_attention_is_all_you_need_sota_nmt/)
 - Attention-over-Attention Neural Networks for Reading Comprehension, Cui et al 2017. [arXiv](https://arxiv.org/abs/1607.04423), [`code`](https://github.com/OlavHN/attention-over-attention)
 - Get To The Point: Summarization with Pointer-Generator Networks, See et al 2017. [arXiv](https://arxiv.org/abs/1704.04368), [`author blog`](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html), [`code`](https://github.com/abisee/cnn-dailymail)
 - β-VAE: LEARNING BASIC VISUAL CONCEPTS WITH A CONSTRAINED VARIATIONAL FRAMEWORK, Higgins et al 2017. [pdf](https://openreview.net/pdf?id=Sy2fzU9gl)
