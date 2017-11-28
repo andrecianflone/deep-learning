@@ -1,5 +1,4 @@
 ### 2017-11
-- Probabilistic Reasoning via Deep Learning: Neural Association Models, Liu et al, 2016. [arXiv](https://arxiv.org/abs/1603.07704)
 - Memory Augmented Neural Networks with Wormhole Connections, Gulcehre et al, 2017. [arXiv](https://arxiv.org/abs/1701.08718)
 - Emergence of Invariance and Disentangling in Deep Representations, Achille et al, 2017. [arXiv](https://arxiv.org/abs/1706.01350)
 - Distilling the Knowledge in a Neural Network, Hinton et al, 2015. [arXiv](https://arxiv.org/abs/1503.02531)

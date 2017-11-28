@@ -18,6 +18,9 @@
 ## Course
 - Deep RL Bootcamp, [site](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
+# Datasets
+- The Stanford Natural Language Inference (SNLI) Corpus. 570k human-written English sentences. Text entailment [site](https://nlp.stanford.edu/projects/snli/)
+
 # DL
 - Unreasonable effectiveness of one neuron, [blog](https://rakeshchada.github.io/Sentiment-Neuron.html)
 
