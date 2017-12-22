@@ -1,3 +1,16 @@
+### 2017-12
+- Generating Sentences by Editing Prototypes, Guu et al, 2017. [arXiv](https://arxiv.org/abs/1709.08878)
+- SenGen: Sentence Generating Neural Variational Topic Model, Nallapati et al, 2017. [arXiv](https://arxiv.org/abs/1708.00308)
+- Learning Sparse Neural Networks through L0 Regularization, Louizos et al 2017. [arXiv](https://arxiv.org/abs/1712.01312)
+- Sparsity and the Lasso, Tibshirani and Wasserman, 2015. [pdf](http://www.stat.cmu.edu/~larry/=sml/sparsity.pdf). Note: related L0 paper above
+- Proving convexity, Loh 2013. [pdf](http://www.math.cmu.edu/~ploh/docs/math/mop2013/convexity-soln.pdf). Note: related to L0 paper above
+- Mathematics of Deep Learning, Vidal et al, 2017. [arXiv](https://arxiv.org/abs/1712.04741)
+- Bayesian Hypernetworks, Krueger et al, 2017. [arXiv](https://arxiv.org/abs/1710.04759)
+- SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents, Nallapati et al, 2016. [arXiv](https://arxiv.org/abs/1611.04230)
+- Learning Online Alignments with Continuous Rewards Policy Gradient, Luo et al 2016. [arXiv](https://arxiv.org/abs/1608.01281)
+- Asynchronous Methods for Deep Reinforcement Learning. Mnih et al, 2016. [arXiv](https://arxiv.org/abs/1602.01783)
+- On The State of The Art In Neural Language Models, Anonymous, 2017. [iclr pdf](https://openreview.net/pdf?id=ByJHuTgA-)
+
 ### 2017-11
 - Memory Augmented Neural Networks with Wormhole Connections, Gulcehre et al, 2017. [arXiv](https://arxiv.org/abs/1701.08718)
 - Emergence of Invariance and Disentangling in Deep Representations, Achille et al, 2017. [arXiv](https://arxiv.org/abs/1706.01350)
