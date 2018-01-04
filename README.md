@@ -10,6 +10,7 @@
 - Learning Online Alignments with Continuous Rewards Policy Gradient, Luo et al 2016. [arXiv](https://arxiv.org/abs/1608.01281)
 - Asynchronous Methods for Deep Reinforcement Learning. Mnih et al, 2016. [arXiv](https://arxiv.org/abs/1602.01783)
 - On The State of The Art In Neural Language Models, Anonymous, 2017. [iclr pdf](https://openreview.net/pdf?id=ByJHuTgA-)
+- Natural Language Inference with External Knowledge, Chen et al 2017. [arXiv](https://arxiv.org/abs/1711.04289)
 
 ### 2017-11
 - Memory Augmented Neural Networks with Wormhole Connections, Gulcehre et al, 2017. [arXiv](https://arxiv.org/abs/1701.08718)

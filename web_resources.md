@@ -12,6 +12,9 @@
 - Deep Reinforcement Learning: Pong from Pixels. Karpathy. [`blog`](http://karpathy.github.io/2016/05/31/rl/)
 - [Beginner's guide](https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/).
 
+### Tutorials
+- [Deep RL for checkers](https://chrislarson1.github.io/blog/2016/05/30/cnn-checkers/)
+
 ## Repos
 - Minimal clean examples. Iteration methods, policy gradient, Grid world, CartPole, Atari, etc. [`repo`](https://github.com/rlcode/reinforcement-learning)
 - Many PyTorch tutorials, all levels, for image and text. [`repo`](https://github.com/yunjey/pytorch-tutorial)
