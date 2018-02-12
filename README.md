@@ -1,3 +1,12 @@
+### 2018-02
+- One Model To Learn Them All, Kaiser et al, 2017. [arXiv](https://arxiv.org/abs/1706.05137)
+- An Analysis of Temporal-Difference Learning with Function Approximation, Tsitsiklis and Van Roy, 1997. [pdf](http://web.mit.edu/jnt/www/Papers/J063-97-bvr-td.pdf)
+- Steps Toward Artificial Intelligence, Minsky, 1961. [pdf](https://courses.csail.mit.edu/6.803/pdf/steps.pdf)
+- Eye on the Prize, Nilsson, 1995. [pdf](http://ai.stanford.edu/~nilsson/OnlinePubs-Nils/General%20Essays/AIMag16-02-002.pdf)
+- The Option-Critic Architecture, Bacon et al. [arXiv](https://arxiv.org/abs/1609.05140)
+- Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings. He et al, 2017. [arXiv](https://arxiv.org/abs/1704.07130)
+- Learning to Win by Reading Manuals in a Monte-Carlo Framework, Branavan et al, 2012. [arXiv](https://arxiv.org/abs/1401.5390)
+
 ### 2017-12
 - Generating Sentences by Editing Prototypes, Guu et al, 2017. [arXiv](https://arxiv.org/abs/1709.08878)
 - SenGen: Sentence Generating Neural Variational Topic Model, Nallapati et al, 2017. [arXiv](https://arxiv.org/abs/1708.00308)
