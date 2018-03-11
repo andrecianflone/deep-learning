@@ -1,3 +1,6 @@
+### 2018-03
+- Dynamic Word Embeddings for Evolving Semantic Discovery, Yao et al, 2017. [arXiv](https://arxiv.org/abs/1703.00607)
+
 ### 2018-02
 - One Model To Learn Them All, Kaiser et al, 2017. [arXiv](https://arxiv.org/abs/1706.05137)
 - An Analysis of Temporal-Difference Learning with Function Approximation, Tsitsiklis and Van Roy, 1997. [pdf](http://web.mit.edu/jnt/www/Papers/J063-97-bvr-td.pdf)
