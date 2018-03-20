@@ -1,5 +1,6 @@
 ### 2018-03
 - Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs, Murdoch et al, 2018, ICLR 2018. [pdf](https://openreview.net/pdf?id=rkRwGg-0Z), [arXiv](https://arxiv.org/abs/1801.05453)
+- Dynamic Word Embeddings for Evolving Semantic Discovery, Yao et al, 2017. [arXiv](https://arxiv.org/abs/1703.00607)
 
 ### 2018-02
 - One Model To Learn Them All, Kaiser et al, 2017. [arXiv](https://arxiv.org/abs/1706.05137)
