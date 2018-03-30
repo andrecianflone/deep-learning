@@ -1,7 +1,11 @@
 
-# Reinforcement Learning
 
-## Articles
+## Optimization
+- Notes on gradient descent, Toussaint 2012. [pdf](http://ipvs.informatik.uni-stuttgart.de/mlr/marc/notes/gradientDescent.pdf). Check Algorithm 2 and 3
+
+## Probability
+- Review of expectation, 2009. [pdf](http://math.arizona.edu/~jwatkins/g-expectation.pdf)
+
 ### Topics
 - [Deep Q-Learning](https://keon.io/deep-q-learning/). Keon
 - [Policy method for Cartpole](http://kvfrans.com/simple-algoritms-for-solving-cartpole/), Kvfrans. [`repo`](https://github.com/kvfrans/openai-cartpole/blob/master/cartpole-policygradient.py)
