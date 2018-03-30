@@ -12,6 +12,9 @@ Introduced Deep Deterministic Policy Gradient (DDPG), an actor critic algorithm 
 DPG is the expected gradient of the action-value function, easier to estimate than the traditional stochastic policy gradient.
 
 - Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs, Murdoch et al, 2018, ICLR 2018. [pdf](https://openreview.net/pdf?id=rkRwGg-0Z), [arXiv](https://arxiv.org/abs/1801.05453)
+- Emergence Of Linguistic Communication From Referential Games With Symbolic And Pixel Input, Lazaridou et al, ICLR 2018. [pdf](https://openreview.net/pdf?id=HJGv1Z-AW)
+- Emergent Communication in a Multi-Modal, Multi-Step Referential Game, Evtimova et al, ICLR 2018. [arXiv](https://arxiv.org/abs/1705.10369)
+- Neural Speed Reading via Skim-RNN, Seo et al, ICLR 2018. [arXiv](https://arxiv.org/abs/1711.02085)
 - Dynamic Word Embeddings for Evolving Semantic Discovery, Yao et al, 2017. [arXiv](https://arxiv.org/abs/1703.00607)
 
 ### 2018-02
