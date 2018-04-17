@@ -1,19 +1,10 @@
 ### 2018-03
-- Parameter Space Noise for Exploration, Plappert et al, ICLR 2018. [arXiv](https://arxiv.org/abs/1706.01905)
-
-Instead of adding noise to action space, add noise to the FA's parameters for better exploration.
-
-- Continuous control with deep reinforcement learning, Lillicrap et al, ICLR 2016. [arXiv](https://arxiv.org/abs/1509.02971)
-
-Introduced Deep Deterministic Policy Gradient (DDPG), an actor critic algorithm applicable to continuous action spaces, off-policy.
-
-- Deterministic Policy Gradient Algorithms, Silver et al, ICML 2014. [pdf](http://proceedings.mlr.press/v32/silver14.pdf).
-
-DPG is the expected gradient of the action-value function, easier to estimate than the traditional stochastic policy gradient.
-
+- Parameter Space Noise for Exploration, Plappert et al, ICLR 2018. [arXiv](https://arxiv.org/abs/1706.01905). Instead of adding noise to action space, add noise to the FA's parameters for better exploration.
+- Continuous control with deep reinforcement learning, Lillicrap et al, ICLR 2016. [arXiv](https://arxiv.org/abs/1509.02971). Introduced Deep Deterministic Policy Gradient (DDPG), an actor critic algorithm applicable to continuous action spaces, off-policy.
+- Deterministic Policy Gradient Algorithms, Silver et al, ICML 2014. [pdf](http://proceedings.mlr.press/v32/silver14.pdf). DPG is the expected gradient of the action-value function, easier to estimate than the traditional stochastic policy gradient.
 - Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs, Murdoch et al, 2018, ICLR 2018. [pdf](https://openreview.net/pdf?id=rkRwGg-0Z), [arXiv](https://arxiv.org/abs/1801.05453)
 - Emergence Of Linguistic Communication From Referential Games With Symbolic And Pixel Input, Lazaridou et al, ICLR 2018. [pdf](https://openreview.net/pdf?id=HJGv1Z-AW)
-- Emergent Communication in a Multi-Modal, Multi-Step Referential Game, Evtimova et al, ICLR 2018. [arXiv](https://arxiv.org/abs/1705.10369)
+- Emergent Communication in a Multi-Modal, Multi-Step Referential Game, Evtimova et al, ICLR 2018. [arXiv](https://arxiv.org/abs/1705.10369), [`code`](https://github.com/nyu-dl/MultimodalGame/blob/master/model.py)
 - Neural Speed Reading via Skim-RNN, Seo et al, ICLR 2018. [arXiv](https://arxiv.org/abs/1711.02085)
 - Dynamic Word Embeddings for Evolving Semantic Discovery, Yao et al, 2017. [arXiv](https://arxiv.org/abs/1703.00607)
 
