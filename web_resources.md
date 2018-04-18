@@ -22,7 +22,8 @@
 ## Repos
 - Minimal clean examples. Iteration methods, policy gradient, Grid world, CartPole, Atari, etc. [`repo`](https://github.com/rlcode/reinforcement-learning)
 - Many PyTorch tutorials, all levels, for image and text. [`repo`](https://github.com/yunjey/pytorch-tutorial)
-- OpenAi Universe starter code, A3C algo. ['repo'](https://github.com/openai/universe-starter-agent)
+- OpenAi Universe starter code, A3C algo. [`repo`](https://github.com/openai/universe-starter-agent)
+- Minimalist REINFORCE for discrete and continuous actions. [`repo`](https://github.com/JamesChuanggg/pytorch-REINFORCE)
 
 ## Course
 - Deep RL Bootcamp, [`site`](https://sites.google.com/view/deep-rl-bootcamp/lectures)
