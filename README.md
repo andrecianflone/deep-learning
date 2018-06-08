@@ -1,3 +1,11 @@
+### 2018-06
+- Breaking the Softmax Bottleneck: A High-Rank RNN Language Model, Yang et al, ICLR 2018. [openreview](https://openreview.net/forum?id=HkwZSG-CZ], [arXiv](https://arxiv.org/abs/1711.03953)
+- Control of Memory, Active Perception, and Action in Minecraft, Oh et al, ICML 2016. [arXiv](https://arxiv.org/abs/1605.09128)
+- Multitask Learning, Rich Caruana, PhD thesis 1997. [pdf](http://reports-archive.adm.cs.cmu.edu/anon/1997/CMU-CS-97-203.pdf). Work in the 90s on transfer learning! Chapter 5 discusses auxliary tasks for neural nets! 20 years before the UNREAL paper!
+- Neural Map: Structured Memory for Deep Reinforcement Learning, Parisotto and Salakhutdinov, ICLR 2018. [arXiv](https://arxiv.org/abs/1702.08360). Instead of free external memory, have memory locations correlate with agent location, i.e. structured memory. Hugely outperforms memory nets and others on maze problems.
+- On the State of the Art of Evaluation in Neural Language Models, ICLR 2018. [openreview](https://openreview.net/forum?id=ByJHuTgA-&). Some simple language models, like LSTM, actually achieve SOTA or near SOTA with proper hyperparams and simple additions, like shared embeddings and variational dropout (see Table 4 ablation).
+- Reinforcement Learning with Unsupervised Auxiliary Tasks, Jaderberg et al, ICLR 2017. [openreview](https://openreview.net/forum?id=SJ6yPD5xg). Introduces the UNREAL model.
+
 ### 2018-03
 - Parameter Space Noise for Exploration, Plappert et al, ICLR 2018. [arXiv](https://arxiv.org/abs/1706.01905). Instead of adding noise to action space, add noise to the FA's parameters for better exploration.
 - Continuous control with deep reinforcement learning, Lillicrap et al, ICLR 2016. [arXiv](https://arxiv.org/abs/1509.02971). Introduced Deep Deterministic Policy Gradient (DDPG), an actor critic algorithm applicable to continuous action spaces, off-policy.
