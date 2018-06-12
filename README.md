@@ -1,4 +1,5 @@
 ### 2018-06
+- Improving Language Understanding with Unsupervised Learning, Radford et al, 2018. [openai](https://blog.openai.com/language-unsupervised/)
 - Universal Statistics of Fisher Information in Deep Neural Networks: Mean Field Approach, Karakida et al, 2018. [arXiv](https://arxiv.org/abs/1806.01316)
 - On Learning Intrinsic Rewards for Policy Gradient Methods, Zheng et al, 2018. [arXiv](https://arxiv.org/abs/1804.06459)
 - Breaking the Softmax Bottleneck: A High-Rank RNN Language Model, Yang et al, ICLR 2018. [openreview](https://openreview.net/forum?id=HkwZSG-CZ), [arXiv](https://arxiv.org/abs/1711.03953). [`summary`](summaries/softmax_bottleneck.md). Given a language model output matrix A over time, where each row is is the the vocabulary distribution given context, the authors hypothesize A  must be high rank to be express complex language, and the single softmax is not expressive enough. They propose a mixture of many softmax. 
