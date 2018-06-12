@@ -1,4 +1,6 @@
 ### 2018-06
+- Universal Statistics of Fisher Information in Deep Neural Networks: Mean Field Approach, Karakida et al, 2018. [arXiv](https://arxiv.org/abs/1806.01316)
+- On Learning Intrinsic Rewards for Policy Gradient Methods, Zheng et al, 2018. [arXiv](https://arxiv.org/abs/1804.06459)
 - Breaking the Softmax Bottleneck: A High-Rank RNN Language Model, Yang et al, ICLR 2018. [openreview](https://openreview.net/forum?id=HkwZSG-CZ), [arXiv](https://arxiv.org/abs/1711.03953). [`summary`](summaries/softmax_bottleneck.md). Given a language model output matrix A over time, where each row is is the the vocabulary distribution given context, the authors hypothesize A  must be high rank to be express complex language, and the single softmax is not expressive enough. They propose a mixture of many softmax. 
 - Measuring the Intrinsic Dimension of Objective Landscapes, Li et al, ICLR 2018. [openreview](), [arXiv](https://arxiv.org/abs/1804.08838), [`summary`](summaries/intrinsic_dimension.md). Intrinsic Dimension is the minimal parameter subspace (projected to the total parameters) to achieve a certain performance. It is a measure of model-problem complexity.
 - Control of Memory, Active Perception, and Action in Minecraft, Oh et al, ICML 2016. [arXiv](https://arxiv.org/abs/1605.09128)
@@ -36,7 +38,7 @@
 - Bayesian Hypernetworks, Krueger et al, 2017. [arXiv](https://arxiv.org/abs/1710.04759)
 - SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents, Nallapati et al, 2016. [arXiv](https://arxiv.org/abs/1611.04230)
 - Learning Online Alignments with Continuous Rewards Policy Gradient, Luo et al 2016. [arXiv](https://arxiv.org/abs/1608.01281)
-- Asynchronous Methods for Deep Reinforcement Learning. Mnih et al, 2016. [arXiv](https://arxiv.org/abs/1602.01783)
+- Asynchronous Methods for Deep Reinforcement Learning. Mnih et al, 2016. [arXiv](https://arxiv.org/abs/1602.01783). Introduces A3C, Asyncrhonous Advantage Actor Critic
 - On The State of The Art In Neural Language Models, Anonymous, 2017. [iclr pdf](https://openreview.net/pdf?id=ByJHuTgA-)
 - Natural Language Inference with External Knowledge, Chen et al 2017. [arXiv](https://arxiv.org/abs/1711.04289)
 
