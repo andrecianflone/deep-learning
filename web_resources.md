@@ -26,6 +26,8 @@
 - Many PyTorch tutorials, all levels, for image and text. [`repo`](https://github.com/yunjey/pytorch-tutorial)
 - OpenAi Universe starter code, A3C algo. [`repo`](https://github.com/openai/universe-starter-agent)
 - Minimalist REINFORCE for discrete and continuous actions. [`repo`](https://github.com/JamesChuanggg/pytorch-REINFORCE)
+- [RLCode](https://github.com/rlcode/reinforcement-learning). Minimal example of DQN, DDQN, PG, A2C, A3C
+- [ikostrikov](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr): a2c, ppo, acktr
 
 ## Course
 - Deep RL Bootcamp, [`site`](https://sites.google.com/view/deep-rl-bootcamp/lectures)

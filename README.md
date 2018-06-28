@@ -1,4 +1,5 @@
 ### 2018-06
+- Self-Imitation Learning, Oh et al, 2018. [arXiv](https://arxiv.org/abs/1806.05635)
 - Improving Language Understanding with Unsupervised Learning, Radford et al, 2018. [openai](https://blog.openai.com/language-unsupervised/)
 - Prioritized Experience Replay, Schaul et al, ICLR 2016. [arXiv](https://arxiv.org/abs/1511.05952)
 - Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation, Wu et al, 2017. [arXiv]()
