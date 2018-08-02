@@ -1,5 +1,17 @@
+### 2018-07
+- Proximal Policy Optimization Algorithms, Schulman et al, 2018. [arXiv](https://arxiv.org/abs/1707.06347), [`openai blog`](https://blog.openai.com/openai-baselines-ppo/), OpenAIFive [`blogpost`] which applies scaled up PPO on Dota2
+- Style Transfer Through Back-Translation, Prabhumoye et al, 2018. [arXiv](https://arxiv.org/abs/1804.09000)
+- Hierarchical Neural Story Generation, Fan et al, 2018. [arXiv](https://arxiv.org/abs/1805.04833). Generate a short story based on a "prompt", impressive results.
+- Representation Learning for Grounded Spatial Reasoning, Janner et al, 2018. [arXiv](https://arxiv.org/abs/1707.03938)
+- Generating Sentences by Editing Prototypes, Guu et al, 2018. [arXiv](https://arxiv.org/abs/1709.08878)
+- A Stochastic Decoder for Neural Machine Translation, Schulz et al, 2018. [arXiv](https://arxiv.org/abs/1805.10844)
+- The Hitchhiker’s Guide to Testing Statistical Significance in Natural Language Processing, Dror et al, 2018. [aclweb](http://aclweb.org/anthology/P18-1128)
+- Stock Movement Prediction from Tweets and Historical Prices, Xu and Cohen, 2018. [pdf](http://aclweb.org/anthology/P18-1183)
+- Sharp Nearby, Fuzzy Far Away: How Neural Language Models Use Context, Khandelwal et al, 2018. [arXiv](https://arxiv.org/abs/1805.04623)
+- Backpropagating through Structured Argmax using a SPIGOT, Peng et al, 2018. [arXiv](https://arxiv.org/abs/1805.04658)
+
 ### 2018-06
-- Self-Imitation Learning, Oh et al, 2018. [arXiv](https://arxiv.org/abs/1806.05635)
+- Self-Imitation Learning, Oh et al, 2018. [arXiv](https://arxiv.org/abs/1806.05635). Performs on-policy A2C update, and off-polic SIL, which samples positive experiences from a replay buffer and uses a form of AC. 
 - Improving Language Understanding with Unsupervised Learning, Radford et al, 2018. [openai](https://blog.openai.com/language-unsupervised/)
 - Prioritized Experience Replay, Schaul et al, ICLR 2016. [arXiv](https://arxiv.org/abs/1511.05952)
 - Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation, Wu et al, 2017. [arXiv]()

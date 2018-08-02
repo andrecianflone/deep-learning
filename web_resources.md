@@ -20,6 +20,7 @@
 
 ### Tutorials
 - [Deep RL for checkers](https://chrislarson1.github.io/blog/2016/05/30/cnn-checkers/)
+- [Variational Inference tutorial](https://github.com/philschulz/VITutorial.git)
 
 ## Repos
 - Minimal clean examples. Iteration methods, policy gradient, Grid world, CartPole, Atari, etc. [`repo`](https://github.com/rlcode/reinforcement-learning)
