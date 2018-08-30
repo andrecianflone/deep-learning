@@ -1,8 +1,14 @@
+### 2018-08
+- Vehicle Communication Strategies for Simulated Highway Driving, Resnick et al, 2017, NIPS 2017 Workshop on Emergent Communication.
+- Emergent Communication through Negotiation, Cao et al, NIPS 2017 Workshop on Emergent Communication.
+- Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples, Athalye et al, ICML 2018. [arXiv](https://arxiv.org/abs/1802.00420). Defeats 7 of 9 recently introduced adversarial defense methods. Won best paper at ICML.
+- Meta-Gradient Reinforcement Learning, Xu et al 2018, [arXiv](https://arxiv.org/abs/1805.09801)
+
 ### 2018-07
 - Proximal Policy Optimization Algorithms, Schulman et al, 2018. [arXiv](https://arxiv.org/abs/1707.06347), [`openai blog`](https://blog.openai.com/openai-baselines-ppo/), OpenAIFive [`blogpost`] which applies scaled up PPO on Dota2
 - What you can cram into a single $&!#* vector: Probing sentence embeddings for linguistic properties, Conneau et al, ACL 2018. [arXiv](https://arxiv.org/abs/1805.01070). The authors go through 10 probing tasks to find out some of the things the embeddings capture, trained with various architectures.
 - Style Transfer Through Back-Translation, Prabhumoye et al, ACL 2018. [arXiv](https://arxiv.org/abs/1804.09000)
-- Hierarchical Neural Story Generation, Fan et al, ACL 2018. [arXiv](https://arxiv.org/abs/1805.04833). Generate a short story based on a "prompt", impressive results.
+- Hierarchical Neural Story Generation, Fan et al, ACL 2018. [arXiv](https://arxiv.org/abs/1805.04833). Generate a short story based on a "prompt", impressive results. Also has some cool tricks, like model fusion, a different type of attention, k=10 sampling, etc.
 - Representation Learning for Grounded Spatial Reasoning, Janner et al, ACL 2018. [arXiv](https://arxiv.org/abs/1707.03938)
 - Generating Sentences by Editing Prototypes, Guu et al, ACL 2018. [arXiv](https://arxiv.org/abs/1709.08878)
 - A Stochastic Decoder for Neural Machine Translation, Schulz et al, ACL 2018. [arXiv](https://arxiv.org/abs/1805.10844)
