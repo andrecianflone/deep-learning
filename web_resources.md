@@ -34,7 +34,13 @@
 - Deep RL Bootcamp, [`site`](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
 # Datasets
+## NLP
 - The Stanford Natural Language Inference (SNLI) Corpus. 570k human-written English sentences. Text entailment [`site`](https://nlp.stanford.edu/projects/snli/)
+## Environments
+### Simulators
+- [Gibson Environments: Real-World Perception for Embodied Agents](https://github.com/StanfordVL/GibsonEnv). A virtual environment for agents which is quite realistic.
+### Game
+- [VizDoom](https://github.com/mwydmuch/ViZDoom). Doom environment using only visual information. Visuals include: FPV game pixels, object labelling visual, depth map, 2D map. Should probably use with a gym wrapper, like [this one](https://github.com/nsavinov/gym-vizdoom). To understand how to setup the engine, checkout [this minimalist example](https://github.com/mwydmuch/ViZDoom/blob/master/examples/python/basic.py). Also, checkout [this pytorch example](https://github.com/mwydmuch/ViZDoom/blob/master/examples/python/learning_pytorch.py).
 
 # DL
 - Unreasonable effectiveness of one neuron, [`blog`](https://rakeshchada.github.io/Sentiment-Neuron.html)

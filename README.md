@@ -1,3 +1,7 @@
+### 2018-09
+- Phrase-Based & Neural Unsupervised Machine Translation, Lample et al, EMNLP 2018. [arXiv](https://arxiv.org/abs/1804.07755)
+- Hybrid Reward Architecture for Reinforcement Learning, Seijen et al, 2017. [arXiv](https://arxiv.org/abs/1706.04208).
+
 ### 2018-08
 - Vehicle Communication Strategies for Simulated Highway Driving, Resnick et al, 2017, NIPS 2017 Workshop on Emergent Communication.
 - Emergent Communication through Negotiation, Cao et al, NIPS 2017 Workshop on Emergent Communication.
@@ -108,7 +112,7 @@
 - Emergence of Grounded Compositional Language in Multi-Agent Populations, Mordatch and Abbeel, 2017. [arXiv](https://arxiv.org/abs/1703.04908), [`author blog`](https://blog.openai.com/learning-to-communicate/). Note: related to Kottur et al 2017.
 
 ### 2017-09
-- Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog, Kottur et al, 2017. [arXiv](https://arxiv.org/abs/1706.08502)
+- Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog, Kottur et al, 2017. [arXiv](https://arxiv.org/abs/1706.08502), [`code`](https://github.com/batra-mlp-lab/lang-emerge)
 - Opening the black box of Deep Neural Networks via Information, Schwartz-Ziv and Tishbly, 2017. [arXiv](https://arxiv.org/abs/1703.00810), [m-p review](https://blog.acolyer.org/2017/11/15/opening-the-black-box-of-deep-neural-networks-via-information-part-i/)
 - End-to-end Neural Coreference Resolution, Lee et al, 2017. [arXiv](https://arxiv.org/abs/1707.07045)
 - Deep Reinforcement Learning for Mention-Ranking Coreference Models, Clark et al, 2016. [arXiv](https://arxiv.org/abs/1609.08667)
