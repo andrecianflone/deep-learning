@@ -1,4 +1,10 @@
+### 2018-10
+- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, Devlin et al, 2018. [arXiv](https://arxiv.org/pdf/1810.04805.pdf)
+- The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables, Maddison et al, 2017. [arXiv](https://arxiv.org/abs/1611.00712). Note, the Concrete is equivalent to the Gumbel-Softmax.
+-Categorical Reparameterization with Gumbel-Softmax, Jang et al, 2017. [arXiv](https://arxiv.org/abs/1611.01144). Note: Gumbel-Softmax is equivalent to the Concrete distribution.
+
 ### 2018-09
+- Universal Transformers, Dehghani et al, 2018. [arXiv](https://arxiv.org/abs/1807.03819), [`google blog post`](https://ai.googleblog.com/2018/08/moving-beyond-translation-with.html)
 - Phrase-Based & Neural Unsupervised Machine Translation, Lample et al, EMNLP 2018. [arXiv](https://arxiv.org/abs/1804.07755)
 - Hybrid Reward Architecture for Reinforcement Learning, Seijen et al, 2017. [arXiv](https://arxiv.org/abs/1706.04208).
 
