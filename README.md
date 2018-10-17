@@ -1,4 +1,6 @@
 ### 2018-10
+- Variational Inference with Normalizing Flows, Rezende et al, 2016. [arXiv](https://arxiv.org/abs/1505.05770)
+- Large Scale GAN Training for High Fidelity Natural Image Synthesis, Brock et al, submission to ICLR 2019. [arXiv](https://arxiv.org/abs/1809.11096)
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, Devlin et al, 2018. [arXiv](https://arxiv.org/pdf/1810.04805.pdf)
 - The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables, Maddison et al, 2017. [arXiv](https://arxiv.org/abs/1611.00712). Note, the Concrete is equivalent to the Gumbel-Softmax.
 -Categorical Reparameterization with Gumbel-Softmax, Jang et al, 2017. [arXiv](https://arxiv.org/abs/1611.01144). Note: Gumbel-Softmax is equivalent to the Concrete distribution.
