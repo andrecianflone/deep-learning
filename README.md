@@ -1,4 +1,5 @@
 ### 2018-10
+- Variational Inference: A Review for Statisticians, Blei et al, 2018. [arXiv](https://arxiv.org/abs/1601.00670)
 - Variational Inference with Normalizing Flows, Rezende et al, 2016. [arXiv](https://arxiv.org/abs/1505.05770)
 - Large Scale GAN Training for High Fidelity Natural Image Synthesis, Brock et al, submission to ICLR 2019. [arXiv](https://arxiv.org/abs/1809.11096)
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, Devlin et al, 2018. [arXiv](https://arxiv.org/pdf/1810.04805.pdf)
