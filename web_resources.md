@@ -21,6 +21,7 @@
 ### Tutorials
 - [Deep RL for checkers](https://chrislarson1.github.io/blog/2016/05/30/cnn-checkers/)
 - [Variational Inference tutorial](https://github.com/philschulz/VITutorial.git)
+- Blog on theory and code. Covers **q-learning** with frozen lake, deep q-learning on doom/space invaders, policy gradients on Doom, A2C/A3C with Sonic, PPO with Sonic. [link](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
 
 ## Repos
 - Minimal clean examples. Iteration methods, policy gradient, Grid world, CartPole, Atari, etc. [`repo`](https://github.com/rlcode/reinforcement-learning)
@@ -29,6 +30,9 @@
 - Minimalist REINFORCE for discrete and continuous actions. [`repo`](https://github.com/JamesChuanggg/pytorch-REINFORCE)
 - [RLCode](https://github.com/rlcode/reinforcement-learning). Minimal example of DQN, DDQN, PG, A2C, A3C
 - [ikostrikov](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr): a2c, ppo, acktr
+
+## Tools
+- Beam search implementation [in PyTorch](https://github.com/eladhoffer/seq2seq.pytorch/blob/master/seq2seq/tools/beam_search.py)
 
 ## Course
 - Deep RL Bootcamp, [`site`](https://sites.google.com/view/deep-rl-bootcamp/lectures)
