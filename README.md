@@ -1,4 +1,7 @@
 ### 2018-10
+- Speaker-Follower Models for Vision-and-Language Navigation, Fried et al, NIPS 2018, [arXiv](https://arxiv.org/abs/1806.02724)
+- Newsroom: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies, Grusky et al, NAACL 2018, [arXiv](https://arxiv.org/abs/1804.11283)
+- Architectural Complexity Measures of Recurrent Neural Networks, Zhang et al, NIPS 2016, [arXiv](https://arxiv.org/abs/1602.08210)
 - Gradient Estimation Using Stochastic Computation Graphs, Schulman et al, 2016. [arXiv](https://arxiv.org/abs/1506.05254)
 - Variational Inference: A Review for Statisticians, Blei et al, 2018. [arXiv](https://arxiv.org/abs/1601.00670)
 - Variational Inference with Normalizing Flows, Rezende et al, 2016. [arXiv](https://arxiv.org/abs/1505.05770)
