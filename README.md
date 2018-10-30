@@ -1,4 +1,5 @@
 ### 2018-10
+- Certified Defenses against Adversarial Examples, Raghunathan et al, 2018, [arXiv](https://arxiv.org/abs/1801.09344)
 - Speaker-Follower Models for Vision-and-Language Navigation, Fried et al, NIPS 2018, [arXiv](https://arxiv.org/abs/1806.02724)
 - Newsroom: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies, Grusky et al, NAACL 2018, [arXiv](https://arxiv.org/abs/1804.11283)
 - Architectural Complexity Measures of Recurrent Neural Networks, Zhang et al, NIPS 2016, [arXiv](https://arxiv.org/abs/1602.08210)
