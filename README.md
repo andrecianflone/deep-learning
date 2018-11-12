@@ -1,4 +1,5 @@
 ### 2018-10
+- Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols, Havrylov and Titov, NIPS 2017. [arXiv](https://arxiv.org/abs/1705.11192). Note: EC with referential games, trained with REINFORCE and Gumbel-Softmax, shows hierarchy of language
 - Prior Convictions: Black-box Adversarial Attacks with Bandits and Priors, Ilyas et al 2018, ICLR 2019 submission. [openreview](https://openreview.net/forum?id=BkMiWhR5K7)
 - Certified Defenses against Adversarial Examples, Raghunathan et al, 2018, [arXiv](https://arxiv.org/abs/1801.09344)
 - Speaker-Follower Models for Vision-and-Language Navigation, Fried et al, NIPS 2018, [arXiv](https://arxiv.org/abs/1806.02724)
