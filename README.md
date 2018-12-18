@@ -1,3 +1,25 @@
+### 2018-12
+- Off-policy Learning with Recognizers, Precup et al, 2005. [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.420.3772&rep=rep1&type=pdf)
+- Meta-Gradient Reinforcement Learning, Xu et al, 2018. [arXiv](https://arxiv.org/abs/1805.09801).
+- Expected Policy Gradients, Criosek et al, 2018. [arXiv](https://arxiv.org/abs/1706.05374).
+- Mean Actor Critic, Allen et al, 2018. [arXiv](https://arxiv.org/abs/1709.00503), [`web version`](https://www.groundai.com/project/mean-actor-critic/). The usual policy gradient is an expectation over states and actions, but they suggest to add the the explicit sum over actions back in the expectation over states (Eq. 4). Doing so result in a policy update considering actions not taken in the environment. In domains where Q is good, MAC results in lower variance, otherwise MAC performs worse.
+- Near-Optimal Representation Learning for Hierarchical Reinforcement Learning, Nachum et al, NeurIPS 2018. [arXiv](https://arxiv.org/abs/1810.01257). Note: builds on HIRO, but focuses on optimal representations.
+- Data-Efficient Hierarchical Reinforcement Learning, Nachum et al, NeurIPS 2018. [arXiv](https://arxiv.org/abs/1805.08296). Note: type of HRL called HIRO. High level policy gives low-level policy a goal state to reach.
+- Neural Ordinary Differential Equations, Chen et al, NeurIPS 2018. [arXiv](https://arxiv.org/abs/1806.07366), [`code`](https://github.com/rtqichen/torchdiffeq). Best paper award
+- Non-delusional Q-learning and value-iteration, Lu et al, NeurIPS 2018. [proceedings](https://papers.nips.cc/paper/8200-non-delusional-q-learning-and-value-iteration). Best paper award.
+- Exploration by Random Network Distillation, Burda et al, 2018. [arXiv](https://arxiv.org/abs/1810.12894)
+- Revisiting the Arcade Learning Environment, Machado et al, 2017. [arXiv](https://arxiv.org/abs/1709.06009). Note: known for suggesting sticky actions to make environment non-deterministic. Sticky action: with some prob eps, environment repeats previous action.
+- An Information-Theoretic Optimality Principle for Deep Reinforcement Learning, Leibfried et al, 2017. [arXiv](https://arxiv.org/abs/1708.01867). Note: addresses problem of Q-value overestimation
+- Dueling Network Architectures for Deep Reinforcement Learning, Wang et al, 2015. [arXiv](https://arxiv.org/abs/1511.06581)
+- Deep Reinforcement Learning in Large Discrete Action Spaces, Dulac-Arnold, 2015. [arXiv](https://arxiv.org/abs/1512.07679)
+
+### 2018-11
+- BISIMULATION METRICS FOR CONTINUOUS MARKOV DECISION PROCESSES, Ferns et al, 2011. [pdf](https://www.cs.mcgill.ca/~prakash/Pubs/siamFP11.pdf)
+- Addressing Function Approximation Error in Actor-Critic Methods, Fujimoto et al, ICML 2018. [arXiv](https://arxiv.org/abs/1802.09477). TD3 agent
+- The Mirage of Action-Dependent Baselines in Reinforcement Learning, Tucker et al, 2018. [arXiv](https://arxiv.org/abs/1802.10031). Note: decomposes variance into 3 sources: from trajectory, action-dependent baseline, and state visitation. Conclusion: variance-reduction from action-dependent baseline can be minimal.
+- Backpropagation through the Void: Optimizing control variates for black-box gradient estimation, Grathwohl et al, ICLR 2018, [arXiv](https://arxiv.org/abs/1711.00123). Note: action dependent baseline, builds on REBAR
+- REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models, Tucker et al, ICLR 2017. [arXiv](https://arxiv.org/abs/1703.07370)
+
 ### 2018-10
 - Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols, Havrylov and Titov, NIPS 2017. [arXiv](https://arxiv.org/abs/1705.11192). Note: EC with referential games, trained with REINFORCE and Gumbel-Softmax, shows hierarchy of language
 - Prior Convictions: Black-box Adversarial Attacks with Bandits and Priors, Ilyas et al 2018, ICLR 2019 submission. [openreview](https://openreview.net/forum?id=BkMiWhR5K7)
