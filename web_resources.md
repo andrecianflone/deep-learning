@@ -17,6 +17,7 @@
 - [Beginner's guide](https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/).
 - [Riemannian manifolds lecture](https://www.youtube.com/watch?v=MtZV82LCNHc), [slides](https://www.robots.ox.ac.uk/~vgg/rg/slides/Oxford-Mar-2014.pdf)
 - [Information Geometry lecture](https://www.youtube.com/watch?v=zmUMBLEHhZg), [slides](http://videolectures.net/mlss05us_dasgupta_ig/)
+- [Adversarial Attacks, Robustness](https://adversarial-ml-tutorial.org), theory and practice
 
 ### Tutorials
 - [Deep RL for checkers](https://chrislarson1.github.io/blog/2016/05/30/cnn-checkers/)
