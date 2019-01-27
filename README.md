@@ -1,4 +1,10 @@
+### 2019-01
+- Doubly Robust Off-policy Value Evaluation for Reinforcement Learning, Jiang and Li, 2015. [arXiv](https://arxiv.org/abs/1511.03722)
+- Data-Efficient Off-Policy Policy Evaluation for Reinforcement Learning, Thomas and Brunskill, 2016. [arXiv](https://arxiv.org/abs/1604.00923)
+- Implicit Reparameterization Gradients, Figurnov et al, NeurIPS 2018. [arXiv](https://arxiv.org/abs/1805.08498)
+
 ### 2018-12
+- Meta-Learning: A Survey, Vanschoren et al, 2018. [arXiv](https://arxiv.org/abs/1810.03548)
 - Off-policy Learning with Recognizers, Precup et al, 2005. [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.420.3772&rep=rep1&type=pdf)
 - Meta-Gradient Reinforcement Learning, Xu et al, 2018. [arXiv](https://arxiv.org/abs/1805.09801).
 - Expected Policy Gradients, Criosek et al, 2018. [arXiv](https://arxiv.org/abs/1706.05374).
