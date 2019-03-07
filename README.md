@@ -1,7 +1,12 @@
+ Unified Bellman Equation for Causal Information and Value in Markov Decision Processes, Tiomkin and Tishby, [arXiv]()
+
 ### 2019-01
+- Evaluating Theory of Mind in Question Answering, Nematzadeh et al, EMNLP 2018. [arXiv](https://arxiv.org/abs/1808.09352)
+- An Off-policy Policy Gradient Theorem Using Emphatic Weightings, Imani et al, NeurIPS 2018. [arXiv](https://arxiv.org/abs/1811.09013)
 - Doubly Robust Off-policy Value Evaluation for Reinforcement Learning, Jiang and Li, 2015. [arXiv](https://arxiv.org/abs/1511.03722)
 - Data-Efficient Off-Policy Policy Evaluation for Reinforcement Learning, Thomas and Brunskill, 2016. [arXiv](https://arxiv.org/abs/1604.00923)
 - Implicit Reparameterization Gradients, Figurnov et al, NeurIPS 2018. [arXiv](https://arxiv.org/abs/1805.08498)
+- Approximately Optimal Approximate Reinforcement Learning, Kakade and Langford, 2002. [pdf](https://dl.acm.org/citation.cfm?id=656005). Note: the paper which inspired the likes of TRPO
 
 ### 2018-12
 - Meta-Learning: A Survey, Vanschoren et al, 2018. [arXiv](https://arxiv.org/abs/1810.03548)
